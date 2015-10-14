@@ -32,11 +32,11 @@
 							two personas that could potentially access America's Finest News Source</p>
 							<ol>
 								<li><h4>Persona 1</h4>
-									<p>16-35 year old male who is tech savvy and has a good sense of humor and possibly politically leans to the left. Persona 1 actively seeks out and shares content, especially political satire,. probably accessed from a web browser or smart phone.</p>
+									<p>Stefon is a 16-35 year old male who is tech savvy and has a good sense of humor and possibly politically leans to the left. Stefon actively seeks out and shares content, especially political satire, probably accessed from a web browser or smart phone.</p>
 									<h5>Use Scenario</h5>
 									<ul><li>
-											Persona 1 is looking for funny political satire. If his search is successful he will share the page with his social media network.In order to do this,
-											Persona 1 must:
+											Stefon is looking for funny political satire. If his search is successful he will share the page with his social media network.In order to do this,
+											Stefon must:
 											<p><ol>
 												<li>Open Web Browser</li>
 												<li>Navigate to www.theonion.com</li>
@@ -51,14 +51,14 @@
 												<li>Login to either Facebook or Twitter, via the new browser window that has popped up.</li>
 												<li>Optional- Write post to accompany link.</li>
 												<li>Click share button.</li>
-												<li>Laugh about the fact article that is now shared to Persona 1's social network and grandma or grandpa might find it.</li>
+												<li>Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</li>
 												</ol></p></li></ul></li>
 								<li><h4>Persona 2</h4>
-										<p>50-70 year old who is not tech savvy and might have been exposed to America's Finest News Source from a social media posting by a much younger relative.</p>
-										<h5>Use Scenario</h5><ul><li>Persona 2 was browsing Facebook when they noticed their grandson Persona 1, had posted a story critical of Bernie Sanders. Persona 2 knows Persona 1 is a dirty liberal commie, and wants to
-											investigate the other political stories on this new website, and make a judgment about the quality of this new website. In order to do this, Persona 2 must:
+										<p>Sally is a 50-70 year old female who is not tech savvy and might have been exposed to America's Finest News Source from a social media posting by a much younger relative.</p>
+										<h5>Use Scenario</h5><ul><li>Sally was browsing Facebook when she noticed her grandson Stefon, had posted a story critical of Bernie Sanders. Sally knows Stefon is a dirty liberal commie, and wants to
+											investigate the other political stories on this new website, and make a judgment about the quality of this new website. In order to do this, Sally must:
 											<p><ol>
-												<li>Click the link Persona 1 shared.</li>
+												<li>Click the link Stefon shared.</li>
 												<li>Evaluate the story in the link and try to find the politics category.</li>
 												<li>Click the politics tag in the upper left of the page, next to the picture and below the headline.</li>
 												<li>Scroll through articles.</li>
