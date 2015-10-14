@@ -45,9 +45,12 @@
 											investigate the other political stories on this new website. In order to do this, Persona 2 must:
 											<p><ol>
 												<li>Click the link Persona 1 shared.</li>
-												<li>Evaluate the story in the link and try to find the politics category</li>
+												<li>Evaluate the story in the link and try to find the politics category.</li>
 												<li>Click the politics tag in the upper left of the page, next to the picture and below the headline.</li>
-												<li>Scroll through articles until they realize they are truly reading America's Finest News Source</li>
+												<li>Scroll through articles.</li>
+												<li>Click headline.</li>
+												<li>Read article.</li>
+												<li>Repeat steps 4-6 until they realize they are truly reading America's Finest News Source</li>
 											</ol></p></li></ul></li>
 
 							</ol>
