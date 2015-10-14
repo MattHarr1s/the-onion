@@ -18,6 +18,9 @@
 								<li>Science & Technology</li>
 								<li>After Birth</li>
 							</ul>
+				<h2>Data Design Analysis</h2>
+					<p>For my data design project I will evaluate the usage scenarios for both a specific article and for a category.</p>
+				<ol><li></li><li><a href="http://www.theonion.com/section/politics/" target="_blank">Onion Politics</a> </li></ol>
 
 			</body>
 </html>
