@@ -39,7 +39,7 @@
 											Stefon must:
 											<p><ol>
 												<li>Open Web Browser</li>
-												<li>Navigate to www.theonion.com</li>
+												<li><span title="The website sends the requested info to the browser.">Navigate to www.theonion.com</span></li>
 												<li>Activate the drop down menu by clicking the button on the far left of the header.</li>
 												<li>Mouse down past the search bar and video category, to politics.</li>
 												<li>Click politics.</li>
