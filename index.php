@@ -40,17 +40,17 @@
 											<p><ol>
 												<li>Open Web Browser</li>
 												<li><span title="The website sends the requested info to the browser.">Navigate to www.theonion.com</span></li>
-												<li><span title="The website opens the drop down navigation menu in the foreground">Activate the drop down menu by clicking the button on the far left of the header.</span></li>
-												<li><span title="The website changes the color of the text from black to gray">Mouse down past the search bar and video category, to politics.</span></li>
-												<li><span title="The website navigates to www.theonion.com/section/politics/">Click politics.</span></li>
+												<li><span title="The website opens the drop down navigation menu in the foreground.">Activate the drop down menu by clicking the button on the far left of the header.</span></li>
+												<li><span title="The website changes the color of the text from black to gray.">Mouse down past the search bar and video category, to politics.</span></li>
+												<li><span title="The website navigates to www.theonion.com/section/politics/.">Click politics.</span></li>
 												<li>Read article.</li>
 												<li>Repeat steps 4-5 until they find a story worth sharing.</li>
 												<li>Find<a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
 														Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</a></li>
-												<li><span title="The website activates the necessary link to share content to Facebook or Twitter">Click either the share to Facebook, or share to Twitter buttons found on the left side of the page.</span></li>
+												<li><span title="The website opens a new window and activates the necessary link to share content to Facebook or Twitter.">Click either the share to Facebook, or share to Twitter buttons found on the left side of the page.</span></li>
 												<li>Login to either Facebook or Twitter, via the new browser window that has popped up.</li>
 												<li>Optional- Write post to accompany link.</li>
-												<li><span title="The website writes a social media post on Stefon's behalf">Click share button.</span></li>
+												<li><span title="The website writes a social media post on Stefon's behalf.">Click share button.</span></li>
 												<li>Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</li>
 												</ol></p></li></ul></li>
 								<li><h4>Persona 2</h4>
