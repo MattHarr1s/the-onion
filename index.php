@@ -34,7 +34,9 @@
 								<li>Persona 1
 									<p>16-35 year old male who is tech savvy and has a good sense of humor and possibly politically leans to the left. Persona 1 actively seeks out and shares content, especially political satire,. probably accessed from a web browser or smart phone.</p>
 									<h5>Use Scenarios</h5>
-									<ol><li><p>Persona 1 is looking for funny political satire. If his search is successful he will share the page with his social media network.</p></li></ol>
+									<ul><li><p>Persona 1 is looking for funny political satire. If his search is successful he will share the page with his social media network.</p></li>
+
+									</ul>
 								</li>
 								<li>Persona 2
 									<p>Conservative pundit who is not tech savvy and might have found the link from a web search for controversial political stories.</p></li>
