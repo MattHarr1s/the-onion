@@ -48,7 +48,7 @@
 												<li>Evaluate the story in the link and try to find the politics category</li>
 												<li>Click the politics tag in the upper left of the page, next to the picture and below the headline.</li>
 												<li>Scroll through articles until they realize they are truly reading America's Finest News Source</li>
-											</ol></li></ul></li>
+											</ol></br></li></ul></li>
 
 							</ol>
 
