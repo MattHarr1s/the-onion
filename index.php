@@ -25,7 +25,11 @@
 							<li><a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
 									Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</a></li>
 							<li><a href="http://www.theonion.com/section/politics/" target="_blank">Onion Politics</a></li>
-						]</ol>
+						</ol>
+					<h4>Personas</h4>
+						<p>A persona a hypothetical written description of an end user who will use your product.
+							Personas are used to model hypothetical use case scenarios for your product.For my data design analysis I have invented
+							two personas that could potentially access America's Finest News Source</p>
 
 			</body>
 </html>
