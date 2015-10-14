@@ -45,7 +45,9 @@
 												<li>Click politics.</li>
 												<li>Read article.</li>
 												<li>Repeat steps 4-5 until they find a story worth sharing.</li>
-												<li>Click either the share to Facebook, or share to Twitter buttons.</li>
+												<li>Find<a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
+														Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</a></li>
+												<li>Click either the share to Facebook, or share to Twitter buttons found on the left side of the page.</li>
 												<li>Login to either Facebook or Twitter, via the new browser window that has popped up.</li>
 												<li>Optional- Write post to accompany link.</li>
 												<li>Click share button.</li>
