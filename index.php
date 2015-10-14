@@ -56,7 +56,7 @@
 								<li><h4>Persona 2</h4>
 										<p>50-70 year old who is not tech savvy and might have been exposed to America's Finest News Source from a social media posting by a much younger relative.</p>
 										<h5>Use Scenario</h5><ul><li>Persona 2 was browsing Facebook when they noticed their grandson Persona 1, had posted a story critical of Bernie Sanders. Persona 2 knows Persona 1 is a dirty liberal commie, and wants to
-											investigate the other political stories on this new website,and make a judgment about the quality of this new website. In order to do this, Persona 2 must:
+											investigate the other political stories on this new website, and make a judgment about the quality of this new website. In order to do this, Persona 2 must:
 											<p><ol>
 												<li>Click the link Persona 1 shared.</li>
 												<li>Evaluate the story in the link and try to find the politics category.</li>
