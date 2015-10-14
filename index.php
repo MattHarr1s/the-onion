@@ -33,19 +33,21 @@
 							<ol>
 								<li><h4>Persona 1</h4>
 									<p>16-35 year old male who is tech savvy and has a good sense of humor and possibly politically leans to the left. Persona 1 actively seeks out and shares content, especially political satire,. probably accessed from a web browser or smart phone.</p>
-									<h5>Use Scenarios</h5>
-									<ul><li><p>Persona 1 is looking for funny political satire. If his search is successful he will share the page with his social media network.</p></li>
-
+									<h5>Use Scenario</h5>
+									<ul><li>
+											<p>Persona 1 is looking for funny political satire. If his search is successful he will share the page with his social media network.</p>
+										</li>
 									</ul>
 								</li>
 								<li><h4>Persona 2</h4>
 										<p>50-70 year old who is not tech savvy and might have been exposed to America's Finest News Source from a social media posting by a much younger relative.</p>
-										<h5>Use Scenarios</h5><ul><li>Persona 2 was browsing facebook when they noticed their grandson Persona 1, had posted a story about Bernie Sanders.Persona 2 wants to
+										<h5>Use Scenario</h5><ul><li>Persona 2 was browsing facebook when they noticed their grandson Persona 1, had posted a story about Bernie Sanders.Persona 2 wants to
 											investigate the other political stories on this new website. In order to do this, Persona 2 must:
 											<br><ol>
 												<li>Click the link Persona 1 shared.</li>
 												<li>Evaluate the story in the link and try to find the politics category</li>
-												<li>Click the politics tag in the upper left of the page, next to the picture and below the headline</li>
+												<li>Click the politics tag in the upper left of the page, next to the picture and below the headline.</li>
+												<li>Scroll through articles until they realize they are truly reading America's Finest News Source</li>
 											</ol></li></ul></li>
 
 							</ol>
