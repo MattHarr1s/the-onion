@@ -26,12 +26,12 @@
 									Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</a></li>
 							<li><a href="http://www.theonion.com/section/politics/" target="_blank">Onion Politics</a></li>
 						</ol>
-					<h4>Personas</h4>
+					<h3>Personas</h3>
 						<p>A persona is a hypothetical written description of an end user who will use your product.
 							Personas are used to model hypothetical use case scenarios for your product.For my data design analysis I have invented
 							two personas that could potentially access America's Finest News Source</p>
 							<ol>
-								<li>Persona 1
+								<li><h4>Persona 1</h4>
 									<p>16-35 year old male who is tech savvy and has a good sense of humor and possibly politically leans to the left. Persona 1 actively seeks out and shares content, especially political satire,. probably accessed from a web browser or smart phone.</p>
 									<h5>Use Scenarios</h5>
 									<ul><li><p>Persona 1 is looking for funny political satire. If his search is successful he will share the page with his social media network.</p></li>
