@@ -35,14 +35,26 @@
 									<p>16-35 year old male who is tech savvy and has a good sense of humor and possibly politically leans to the left. Persona 1 actively seeks out and shares content, especially political satire,. probably accessed from a web browser or smart phone.</p>
 									<h5>Use Scenario</h5>
 									<ul><li>
-											<p>Persona 1 is looking for funny political satire. If his search is successful he will share the page with his social media network.</p>
-										</li>
-									</ul>
-								</li>
+											Persona 1 is looking for funny political satire. If his search is successful he will share the page with his social media network.In order to do this,
+											Persona 1 must:
+											<p><ol>
+												<li>Open Web Browser</li>
+												<li>Navigate to www.theonion.com</li>
+												<li>Activate the drop down menu by clicking the button on the far left of the header.</li>
+												<li>Mouse down past the search bar and video category, to politics.</li>
+												<li>Click politics.</li>
+												<li>Read article.</li>
+												<li>Repeat steps 4-5 until they find a story worth sharing.</li>
+												<li>Click either the share to Facebook, or share to Twitter buttons.</li>
+												<li>Login to either Facebook or Twitter, via the new browser window that has popped up.</li>
+												<li>Optional- Write post to accompany link.</li>
+												<li>Click share button.</li>
+												<li>Laugh about the article that is now shared to Persona 1's social network.</li>
+												</ol></p></li></ul></li>
 								<li><h4>Persona 2</h4>
 										<p>50-70 year old who is not tech savvy and might have been exposed to America's Finest News Source from a social media posting by a much younger relative.</p>
 										<h5>Use Scenario</h5><ul><li>Persona 2 was browsing facebook when they noticed their grandson Persona 1, had posted a story about Bernie Sanders.Persona 2 wants to
-											investigate the other political stories on this new website. In order to do this, Persona 2 must:
+											investigate the other political stories on this new website and make a judgement about the quality of content. In order to do this, Persona 2 must:
 											<p><ol>
 												<li>Click the link Persona 1 shared.</li>
 												<li>Evaluate the story in the link and try to find the politics category.</li>
@@ -50,7 +62,7 @@
 												<li>Scroll through articles.</li>
 												<li>Click headline.</li>
 												<li>Read article.</li>
-												<li>Repeat steps 4-6 until they realize they are truly reading America's Finest News Source</li>
+												<li>Repeat steps 4-6 until they realize they are truly reading America's Finest News Source.</li>
 											</ol></p></li></ul></li>
 
 							</ol>
