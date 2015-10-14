@@ -34,7 +34,7 @@
 								<li>Persona 1
 									<p>16-35 year old male who is tech savvy and has a good sense of humor and possibly politically leans to the left. Persona 1 actively seeks out and shares content, especially political satire,. probably accessed from a web browser or smart phone.</p></li>
 								<li>Persona 2
-									<p>Fox News researcher who is not tech savvy, might have found the link from a web search for some controversial nonsense.</p></li>
+									<p>Conservative pundit who is not tech savvy and might have found the link from a web search for controversial political stories.</p></li>
 							</ol>
 
 			</body>
