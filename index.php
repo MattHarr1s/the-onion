@@ -20,7 +20,7 @@
 							</ul>
 				<h2>Data Design Analysis</h2>
 					<p>For my data design project I will evaluate the usage scenarios for both a specific article and for a category.</p>
-					<h3>Data Design Analysis Topics</h3>
+					<h3>Data Design Analysis Subjects</h3>
 						<ol>
 							<li><a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
 									Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</a></li>
