@@ -51,7 +51,7 @@
 												<li>Login to either Facebook or Twitter, via the new browser window that has popped up.</li>
 												<li>Optional- Write post to accompany link.</li>
 												<li>Click share button.</li>
-												<li>Laugh about the article that is now shared to Persona 1's social network.</li>
+												<li>Laugh about the fact article that is now shared to Persona 1's social network and grandma or grandpa might find it.</li>
 												</ol></p></li></ul></li>
 								<li><h4>Persona 2</h4>
 										<p>50-70 year old who is not tech savvy and might have been exposed to America's Finest News Source from a social media posting by a much younger relative.</p>
