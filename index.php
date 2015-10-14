@@ -43,12 +43,12 @@
 										<p>50-70 year old who is not tech savvy and might have been exposed to America's Finest News Source from a social media posting by a much younger relative.</p>
 										<h5>Use Scenario</h5><ul><li>Persona 2 was browsing facebook when they noticed their grandson Persona 1, had posted a story about Bernie Sanders.Persona 2 wants to
 											investigate the other political stories on this new website. In order to do this, Persona 2 must:
-											<br><ol>
+											<p><ol>
 												<li>Click the link Persona 1 shared.</li>
 												<li>Evaluate the story in the link and try to find the politics category</li>
 												<li>Click the politics tag in the upper left of the page, next to the picture and below the headline.</li>
 												<li>Scroll through articles until they realize they are truly reading America's Finest News Source</li>
-											</ol></br></li></ul></li>
+											</ol></p></li></ul></li>
 
 							</ol>
 
