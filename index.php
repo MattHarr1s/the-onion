@@ -114,7 +114,7 @@
 												<h3>Conceptual Model</h3>
 													<p>A conceptual model is a basic map of concepts and relationships used in databases. I am going to describe some of the relationships at work in the
 														Onion's website for both a single article, and the politics category. </p>
-													<h4>The Onion Article</h4>
+													<h4>The Onion Article, Stefon and the Politics Tag</h4>
 													<p>The Onion Article is an entity, and Stefon is also an entity. Stefon is able to access The Onion Article as many times as he would like,
 														and he can share the article with as many other users as he would like. Sharing the article is an example of a relationship Stefon has with the
 														article and because there is no limit to how many times Stefon can share the article, this relationship is a one-to-many relationship.</p>
