@@ -45,62 +45,35 @@
 												<tr>
 													<th colspan="1">Stefon</th>
 													<th colspan="1">The Onion</th>
-												</tr>
-												<tr>
-													<td><ol><li>Open Web Browser</li></td>
-													<td>The Onion chills.</td>
-												</tr>
-												<tr>
-													<td><li>Navigate to www.theonion.com</li></td>
-													<td>The Onion Sends the requested Data to the browser.</td>
-												</tr>
-												<tr>
-													<td><li>Activate the drop down menu by clicking the button on the far left of the header.</li></td>
-													<td>The Onion opens the drop down navigation menu in the foreground.</td>
-												</tr>
-												<tr>
-													<td><li>Mouse down past the search bar and video category, to politics.</li></td>
-													<td>The Onion changes the color of the text from black to gray.</td>
-												</tr>
-												<tr>
-													<td><li>Click politics.</li></td>
-													<td>The Onion navigates to www.theonion.com/section/politics/.</td>
-												</tr>
-												<tr>
-													<td><li>Read article.</li></td>
-													<td>The Onion Chills</td>
-												</tr>
-												<tr>
-													<td><li>Stefon repeats steps 4-5 until he finds a story worth sharing.</li></td>
-													<td>The Onion repeats steps 4-5 until Stefon finally finds a story worth sharing.</td>
-												</tr>
-												<tr>
-													<td><li>Stefon finds<a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
-															Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</li></td>
-													<td>The Onion delivers the content referenced in the link.</td>
-												</tr>
-												<tr>
-													<td><li>Click the share to Facebook button found on the left side of the page.</li></td>
-													<td>The Onion opens a new window and activates the necessary link to share content to Facebook.The Onion also communicates with Facebook to determine if Stefon is logged into Facebook.
-														Once The Onion knows Stefon is logged into Facebook, it then verifies it has Permission to post to Facebook. Facebook also verifies that The Onion has permission to post.</td>
-												</tr>
-												<tr>
-													<td><li>Stefon must decide if he wants to write a caption to accompany the link he is sharing.</li></td>
-													<td>The Onion chills.</td>
-												</tr>
-												<tr>
-													<td><li>Stefon writes a caption to go with the Facebook post.</li></td>
-													<td>The Onion captures Stefon's text and applies it to the post.</td>
-												</tr>
-												<tr>
-													<td><li>Stefon clicks the share button.</li></td>
-													<td>The Onion communicates with Facebook and posts on Stefon's behalf.</td>
-												</tr>
-												<tr>
-													<td><li>Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</li></ol></td>
-													<td>The Onion chills.</td>
-												</tr>
-												</ol>
+												</tr>												<>
+													<td><ol><li>Open Web Browser</li>
+															<li>Navigate to www.theonion.com</li>
+															<li>Activate the drop down menu by clicking the button on the far left of the header.</li>
+															<li>Mouse down past the search bar and video category, to politics.</li>
+															<li>Click politics.</li>
+															<li>Read article.</li>
+															<li>Stefon repeats steps 4-5 until he finds a story worth sharing.</li>
+															<li>Stefon finds<a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
+																	Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</li>
+															<li>Click the share to Facebook button found on the left side of the page.</li>
+															<li>Stefon must decide if he wants to write a caption to accompany the link he is sharing.</li>
+															<li>Stefon writes a caption to go with the Facebook post.</li>
+															<li>Stefon clicks the share button.</li>
+															<li>Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</li></ol></td>
+													<td><ul><li>The Onion chills.</li>
+																<li>The Onion Sends the requested Data to the browser.</li>
+																<li>The Onion opens the drop down navigation menu in the foreground.</li>
+																<li>The Onion changes the color of the text from black to gray.</li>
+																<li>The Onion navigates to www.theonion.com/section/politics/.</li>
+																<li>The Onion Chills</li>
+																<li>The Onion repeats steps 4-5 until Stefon finally finds a story worth sharing.</li>
+																<li>The Onion delivers the content referenced in the link.</li>
+																<li>The Onion opens a new window and activates the necessary link to share content to Facebook.The Onion also communicates with Facebook to determine if Stefon is logged into Facebook.
+														Once The Onion knows Stefon is logged into Facebook, it then verifies it has Permission to post to Facebook. Facebook also verifies that The Onion has permission to post.</li>
+																<li>The Onion chills.</li>
+																<li>The Onion captures Stefon's text and applies it to the post.</li>
+																<li>The Onion communicates with Facebook and posts on Stefon's behalf.</li>
+																<li>The Onion chills.</li></ul></td>
 											</table>
 								<li><h4>Grandma Sally</h4>
 										<img src="img/sallyonion.jpg" alt="What's This Onion?">
