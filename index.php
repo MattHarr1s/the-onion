@@ -45,9 +45,9 @@
 												<li><span title="The website opens the drop down navigation menu in the foreground.">Activate the drop down menu by clicking the button on the far left of the header.</span></li>
 												<li><span title="The website changes the color of the text from black to gray.">Mouse down past the search bar and video category, to politics.</span></li>
 												<li><span title="The website navigates to www.theonion.com/section/politics/.">Click politics.</span></li>
-												<li>Read article.</li>
-												<li>Repeat steps 4-5 until they find a story worth sharing.</li>
-												<li>Find<a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
+												<li><span title="website chills">Read article.</span></li>
+												<li><span title="website repeats steps 4-5 until Stefon finally finds a story worth sharing">Stefon repeats steps 4-5 until he finds a story worth sharing.</span></li>
+												<li>Stefon finds<a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
 														Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</a></li>
 												<li><span title="The website opens a new window and activates the necessary link to share content to Facebook or Twitter.">Click either the share to Facebook, or share to Twitter buttons found on the left side of the page.</span></li>
 												<li>Login to either Facebook or Twitter, via the new browser window that has popped up.</li>
@@ -62,13 +62,13 @@
 											it's that he is a dirty liberal commie who would never criticize his savior, Bernie Sanders.Because of this new-found idiosyncrasy in Stefon,
 											Grandma Sally is now hell-bent on examining this so called Onion to find out what it did to her Grandson. In order to do this, Grandma Sally must:
 											<p><ol>
-												<li>Excitedly click the link Stefon shared.</li>
-												<li>Evaluate the story in the link and try to find the politics category.</li>
-												<li>Click the politics tag in the upper left of the page, next to the picture and below the headline.</li>
-												<li>Scroll through articles.</li>
-												<li>Click headline.</li>
-												<li>Read article.</li>
-												<li>Repeat steps 4-6 until they realize they are truly reading America's Finest News Source.</li>
+												<li><span title="www.facebook.com opens a new browser window containing the contents of the link in the story above">Excitedly click the link Stefon shared.</span></li>
+												<li><span title="website chills">Evaluate the story in the link and try to find the politics category.</span></li>
+												<li><span title="The website opens www.theonion.com/section/politics">Click the politics tag in the upper left of the page, next to the picture and below the headline.</span></li>
+												<li><span title="The website displays varying stories aborve the background in a manner I'm not yet familiar with yet. I should have read more into the pre-work, or taken a few minutes to search on google.">Scroll through articles.</span></li>//scope creep?
+												<li><span title="The website pulls up URL url linked to the headline">Click headline.</span></li>
+												<li><span title="website chills">Read article.</span></li>
+												<li><span title="website repeats steps 4-6 until Stefon finally finds realizes she is reading America's Finest News Source">Repeat steps 4-6 until Grandma Sally realizes she is truly reading America's Finest News Source.</li>
 											</ol></p></li></ul></li>
 															</ol>
 																<h3>Sorry Sally</h3>
