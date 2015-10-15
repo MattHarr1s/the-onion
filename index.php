@@ -19,7 +19,7 @@
 								<li>After Birth</li>
 							</ul>
 				<h2>Data Design Analysis</h2>
-					<p>For my data design project I will evaluate the usage scenarios for both a specific article and for a category. The steps listed in the use scenario are for the personas, <h3> however if you hover your mouse cursor over the steps, you will see the action the website is taking.</h3></p>
+					<p>For my data design project I will evaluate the usage scenarios for both a specific article and for a category.</p>
 					<h3>Data Design Analysis Subjects</h3>
 						<ol>
 							<li><a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
@@ -31,7 +31,7 @@
 							Personas are used to model hypothetical use case scenarios for your product.For my data design analysis I have invented
 							two personas that could potentially access America's Finest News Source</p>
 							<ol>
-								<li><h4>Stefon</h4>
+								<li><h4>Stefon</h4></li>
 									<img src="img/stefon.jpg" alt="Stefon the Barista">
 									<p>Stefon is a 16-35 year old male who is tech savvy with a good sense of humor. When it come to politics, there is no doubt that Stefon leans to the left. Stefon actively seeks out and shares content, from the screen of his MacBook Pro or his iOs device.
 									<h5>Use Scenario</h5>
@@ -54,7 +54,7 @@
 															<li>Read article.</li>
 															<li>Stefon repeats steps 4-5 until he finds a story worth sharing.</li>
 															<li>Stefon finds<a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
-																	Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</li>
+																	Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</a></li>
 															<li>Click the share to Facebook button found on the left side of the page.</li>
 															<li>Stefon must decide if he wants to write a caption to accompany the link he is sharing.</li>
 															<li>Stefon writes a caption to go with the Facebook post.</li>
@@ -78,14 +78,15 @@
 																<li>The Onion chills.</li></ol>
 													</td>
 											</table>
-								<li><h4>Grandma Sally</h4>
+								<li><h4>Grandma Sally</h4></li></ol>
 										<img src="img/sallyonion.jpg" alt="What's This Onion?">
 										<p>Grandma Sally is a 50-70 year old female who, sadly, was born about 50 years too late to be tech savvy. A few year ago her Grandson Stefon bought her a macbook which she uses to browse Facebook and read the news.
 											Because Sally isn't not very tech savvy, she usually only finds new websites through posts made by her Facebook friends.</p>
-										<h5>Use Scenario</h5><ul><li>After an afternoon of watching Judge Judy stick it to some freeloaders, Sally decided to open up her laptop and browse Facebook. After several minutes of liking pictures of her neighbor's grandson, she noticed a headline demonizing Bernie Sanders for attempting to unionize debate moderators.
+										<h5>Use Scenario</h5>
+											<ul><li>After an afternoon of watching Judge Judy stick it to some freeloaders, Sally decided to open up her laptop and browse Facebook. After several minutes of liking pictures of her neighbor's grandson, she noticed a headline demonizing Bernie Sanders for attempting to unionize debate moderators.
 											Upoon further investigation Sally realizes the post was made by her grandson Stefon. If there's one thing Grandma Sally knows her Grandson Stefon,
 											it's that he is a dirty liberal commie who would never criticize his savior, Bernie Sanders. Because of this new-found idiosyncrasy in Stefon,
-											Grandma Sally is now hell-bent on examining this so called Onion to find out what it did to her Grandson. In order to do this, Grandma Sally must:
+											Grandma Sally is now hell-bent on examining this so called Onion to find out what it did to her Grandson. In order to do this, Grandma Sally must:</li></ul>
 													<table style="width:100%">`
 														<tr>
 															<th>Sally</th>
