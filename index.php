@@ -43,10 +43,11 @@
 											<table style="width:100%">
 `
 												<tr>
-													<th colspan="1">Stefon</th>
-													<th colspan="1">The Onion</th>
+													<th>Stefon</th>
+													<th>The Onion</th>
 												</tr>												<>
-													<td><ol><li>Open Web Browser</li>
+													<td>
+														<ol><li>Open Web Browser</li>
 															<li>Navigate to www.theonion.com</li>
 															<li>Activate the drop down menu by clicking the button on the far left of the header.</li>
 															<li>Mouse down past the search bar and video category, to politics.</li>
@@ -59,8 +60,10 @@
 															<li>Stefon must decide if he wants to write a caption to accompany the link he is sharing.</li>
 															<li>Stefon writes a caption to go with the Facebook post.</li>
 															<li>Stefon clicks the share button.</li>
-															<li>Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</li></ol></td>
-													<td><ul><li>The Onion chills.</li>
+															<li>Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</li></ol>
+													</td>
+													<td>
+														<ol><li>The Onion chills.</li>
 																<li>The Onion Sends the requested Data to the browser.</li>
 																<li>The Onion opens the drop down navigation menu in the foreground.</li>
 																<li>The Onion changes the color of the text from black to gray.</li>
@@ -73,7 +76,8 @@
 																<li>The Onion chills.</li>
 																<li>The Onion captures Stefon's text and applies it to the post.</li>
 																<li>The Onion communicates with Facebook and posts on Stefon's behalf.</li>
-																<li>The Onion chills.</li></ul></td>
+																<li>The Onion chills.</li></ol>
+													</td>
 											</table>
 								<li><h4>Grandma Sally</h4>
 										<img src="img/sallyonion.jpg" alt="What's This Onion?">
