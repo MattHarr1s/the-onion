@@ -40,35 +40,38 @@
 											in the free-range design studio at the local print shop. After Stefon locks up his 1968 vintage Schwinn that he personally modified with a fixed axle, he loves drinking a locally sourced craft beer and sitting down at his 2012 MacBook Pro, where he spends his miserable life stirring up political drama onFacebook. In order to do this,
 											Stefon must:
 											<p><ol>
-												<li><span title="website chills">Open Web Browser</span></li>
-												<li><span title="The website sends the requested info to the browser.">Navigate to www.theonion.com</span></li>
-												<li><span title="The website opens the drop down navigation menu in the foreground.">Activate the drop down menu by clicking the button on the far left of the header.</span></li>
-												<li><span title="The website changes the color of the text from black to gray.">Mouse down past the search bar and video category, to politics.</span></li>
-												<li><span title="The website navigates to www.theonion.com/section/politics/.">Click politics.</span></li>
-												<li><span title="website chills">Read article.</span></li>
-												<li><span title="website repeats steps 4-5 until Stefon finally finds a story worth sharing">Stefon repeats steps 4-5 until he finds a story worth sharing.</span></li>
-												<li><span title="The website delivers the content referenced in the link.">Stefon finds<a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
+												<li><span title="The Onion chills.">Open Web Browser</span></li>
+												<li><span title="The Onion sends the requested info to the browser.">Navigate to www.theonion.com</span></li>
+												<li><span title="The Onion opens the drop down navigation menu in the foreground.">Activate the drop down menu by clicking the button on the far left of the header.</span></li>
+												<li><span title="The Onion changes the color of the text from black to gray.">Mouse down past the search bar and video category, to politics.</span></li>
+												<li><span title="The Onion navigates to www.theonion.com/section/politics/.">Click politics.</span></li>
+												<li><span title="The Onion chills.">Read article.</span></li>
+												<li><span title="The Onion repeats steps 4-5 until Stefon finally finds a story worth sharing.">Stefon repeats steps 4-5 until he finds a story worth sharing.</span></li>
+												<li><span title="The Onion delivers the content referenced in the link.">Stefon finds<a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
 														Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</span></a></li>
-												<li><span title="The website opens a new window and activates the necessary link to share content to Facebook or Twitter.">Click either the share to Facebook, or share to Twitter buttons found on the left side of the page.</span></li>
-												<li><span title="The website accesses the appropriate api to call up a new window and creat a facebook or twitter post on behalf of Stefon"> Login to either Facebook or Twitter, via the new browser window that has popped up.</span></li>
-												<li><span title="The website creates a form for text entry to capture text to later be applied to the upcoming post."> Optional- Write post to accompany link.</span></li>
-												<li><span title="The website writes a social media post on Stefon's behalf.">Click share button.</span></li>
+												<li><span title="The website opens a new window and activates the necessary link to share content to Facebook.The Onion also communicates with Facebook to determine if Stefon is logged into Facebook.
+																	Once The Onion knows Stefon is logged into Facebook, it then verifies it has Permission to post to Facebook. Facebook also verifies that The Onion has permission to post">Click the share to Facebook button found on the left side of the page.</span></li>
+												<li><span title="The Onion a new window to create a Facebook post on behalf of Stefon. This window is populated with the link to the story on The Onion and displays Stefon's Facebook profile along with a text entry box for Stefon to comment in.">Stefon must decide if he wants to write a caption to accompany the link he is sharing.</span></li>
+												<li><span title="The Onion captures Stefon's text entry to and applies it to the post.">Stefon writes a caption to go with the Facebook post.</span></li>
+												<li><span title="The Onion communicates with Facebook and posts on Stefon's behalf.">Stefon clicks the share button.</span></li>
 												<li><Span title="website chills">Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</span></li>
 												</ol></p></li></ul></li>
 								<li><h4>Grandma Sally</h4>
 										<img src="img/sallyonion.jpg" alt="What's This Onion?">
-										<p>Grandma Sally is a 50-70 year old female who, sadly, was born about 50 years too late to be tech savvy. Because of this she has not been exposed to America's Finest News Source.</p>
-										<h5>Use Scenario</h5><ul><li>Sally was browsing Facebook when she noticed a post made by her grandson Stefon, of a news article critical of Bernie Sanders. If there's one thing Grandma Sally knows her Grandson Stefon,
-											it's that he is a dirty liberal commie who would never criticize his savior, Bernie Sanders.Because of this new-found idiosyncrasy in Stefon,
+										<p>Grandma Sally is a 50-70 year old female who, sadly, was born about 50 years too late to be tech savvy. A few year ago her Grandson Stefon bought her a macbook which she uses to browse Facebook and read the news.
+											Because Sally isn't not very tech savvy, she usually only finds new websites through posts made by her Facebook friends.</p>
+										<h5>Use Scenario</h5><ul><li>After an afternoon of watching Judge Judy stick it to some freeloaders, Sally decided to open up her laptop and browse Facebook. After several minutes of liking pictures of her neighbor's grandson, she noticed a headline demonizing Bernie Sanders for attempting to unionize debate moderators.
+											Upoon further investigation Sally realizes the post was made by her grandson Stefon. If there's one thing Grandma Sally knows her Grandson Stefon,
+											it's that he is a dirty liberal commie who would never criticize his savior, Bernie Sanders. Because of this new-found idiosyncrasy in Stefon,
 											Grandma Sally is now hell-bent on examining this so called Onion to find out what it did to her Grandson. In order to do this, Grandma Sally must:
 											<p><ol>
-												<li><span title="www.facebook.com opens a new browser window containing the contents of the link in the story above">Excitedly click the link Stefon shared.</span></li>
-												<li><span title="website chills">Evaluate the story in the link and try to find the politics category.</span></li>
-												<li><span title="The website opens www.theonion.com/section/politics">Click the politics tag in the upper left of the page, next to the picture and below the headline.</span></li>
-												<li><span title="The website displays varying stories aborve the background in a manner I'm not yet familiar with yet. I should have read more into the pre-work, or taken a few minutes to search on google.">Scroll through articles.</span></li>
-												<li><span title="The website pulls up URL url linked to the headline">Click headline.</span></li>
-												<li><span title="website chills">Read article.</span></li>
-												<li><span title="website repeats steps 4-6 until Stefon finally finds realizes she is reading America's Finest News Source">Repeat steps 4-6 until Grandma Sally realizes she is truly reading America's Finest News Source.</li>
+												<li><span title="Facebook communicates with the Onion, and then opens a new browser window containing the contents of the link in the story above.">Sally excitedly clicks the link Stefon shared.</span></li>
+												<li><span title="The Onion delivers the website to Sally's browser.">Sally reads the story about Bernie Sanders and decided she wants to read more political stories.</span></li>
+												<li><span title="The Onion opens www.theonion.com/section/politics.">After five minutes she finally finds the politics link on the left side of the screen and clicks it.</span></li>
+												<li><span title="The Onion displays varying stories above the background.">Scroll through articles.</span></li>
+												<li><span title="The Onion pulls up URL url linked to the headline.">Click headline.</span></li>
+												<li><span title="The Onion chills.">Read article.</span></li>
+												<li><span title="The Onion repeats steps 4-6 until Sally finally finds realizes she is reading America's Finest News Source.">Repeat steps 4-6 until Grandma Sally realizes she is truly reading America's Finest News Source.</li>
 											</ol></p></li></ul></li>
 															</ol>
 																<h3>Sorry Sally</h3>
