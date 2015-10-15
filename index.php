@@ -40,7 +40,7 @@
 											in the free-range design studio at the local print shop. After Stefon locks up his 1968 vintage Schwinn that he personally modified with a fixed axle, he loves drinking La Cumbre Elevated IPA, which is a locally sourced craft beer and sitting down at his 2012 MacBook Pro,
 											where he spends his miserable life stirring up political drama on Facebook. There are several steps Stefon must take in order to accomplish his goal. These steps are listed in a table below, with the corresponding actions taken by the Onion website.
 
-											<table style="width:100%">`
+											<table>
 												<tr>
 													<th>Stefon</th>
 													<th>The Onion</th>
