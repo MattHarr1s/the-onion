@@ -19,7 +19,7 @@
 								<li>After Birth</li>
 							</ul>
 				<h2>Data Design Analysis</h2>
-					<p>For my data design project I will evaluate the usage scenarios for both a specific article and for a category. The steps listed in the use scenario are for the personas, however if you hover your mouse cursor over the steps, you will see the action the website is taking.</p>
+					<p>For my data design project I will evaluate the usage scenarios for both a specific article and for a category. The steps listed in the use scenario are for the personas, <h3> however if you hover your mouse cursor over the steps, you will see the action the website is taking.</h3></p>
 					<h3>Data Design Analysis Subjects</h3>
 						<ol>
 							<li><a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
