@@ -92,7 +92,7 @@
 															<th>The Onion</th>
 														</tr>
 														<td><ol>
-												<li>>Sally excitedly clicks the link Stefon shared.</li>
+												<li>Sally excitedly clicks the link Stefon shared.</li>
 												<li>Sally reads the story about Bernie Sanders and decided she wants to read more political stories.</li>
 												<li>After five minutes she finally finds the politics link on the left side of the screen and clicks it.</li>
 												<li>Scroll through articles.</li>
@@ -107,7 +107,7 @@
 																<li>The Onion pulls up URL url linked to the headline.</li>
 																<li>The Onion chills.</li>
 																<li>The Onion repeats steps 4-6 until Sally finally finds realizes she is reading America's Finest News Source.</li>
-															</ol></td>
+															</ol></td></table>
 																<h3>Sorry Sally</h3>
 
 														<img src="img/sorrysally.jpg" alt="Sorry Sally">
