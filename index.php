@@ -36,8 +36,7 @@
 									<p>Stefon is a 16-35 year old male who is tech savvy and has a good sense of humor and possibly politically leans to the left. Stefon actively seeks out and shares content, especially political satire, probably accessed from a web browser or smart phone.</p>
 									<h5>Use Scenario</h5>
 									<ul><li>
-											"Stefon just cracked open a fresh <img src="img/growler.jpg" alt="Photo Credit: <a href="https://www.flickr.com/photos/79715083@N00/5524695481/"> mhaithaca</a> via <a href="http://compfight.com">Compfight</a>
-											<a href="https://creativecommons.org/licenses/by-nc-sa/2.0/">cc</a>
+											"Stefon just cracked open a fresh <img src="img/growler.jpg" alt="Growler.jpg>
 											">growler of a low alcohol, craft, session IPA after a long day's work creating artisanal graphics and logos, in the free-range design studio at the local print shop. After Stefon locks up his 1968 vintage schwinn, modified with a fixed axle of course, he loves drinking a locally sourced craft beer and sitting down at his 2012 MacBook Pro and starting some political debate on Facebook."In order to do this,
 											Stefon must:
 											<p><ol>
