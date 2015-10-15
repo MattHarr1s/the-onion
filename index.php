@@ -116,9 +116,9 @@
 														Onion's website for both a single article, and the politics category. </p>
 													<h4>The Onion Article, Stefon and the Politics Tag</h4>
 													<p>The Onion Article is an entity, and Stefon is also an entity. Stefon is able to access The Onion Article as many times as he would like,
-														and he can share the article with as many other users as he would like. Sharing the article is an example of a relationship Stefon has with the
+														and he can share The Onion article with as many other users as he would like. Sharing The Onion Article is an example of a relationship Stefon has with the
 														article and because there is no limit to how many times Stefon can share the article, this relationship is a one-to-many relationship.</p>
-														The Onion article has a different relationship with the Politics Category than it has with Stefon. The Politics category tag the Onion Article,
+														The Onion article has a different relationship with the Politics Category than it has with Stefon. The Politics category tags the Onion Article,
 													causing the Article to become part of the Politics category. The Politics Category is an entity that can tag as many articles as it would like, however it can only tag The Onion
 													Article one time. The Onion Article can be tagged by many categories, but can only be tagged once by a specific category. The Politics tag has a one-to-one relationship with The Onion Article,
 													and a one-to-many relationship with articles in general. The Onion Article has a one-to-one relationship with the Politics tag and a one to many relationship with categorical tags.</p>
