@@ -31,7 +31,7 @@
 							Personas are used to model hypothetical use case scenarios for your product.For my data design analysis I have invented
 							two personas that could potentially access America's Finest News Source</p>
 							<ol>
-								<li><h4>Persona 1</h4>
+								<li><h4>Stefon</h4>
 									<img src="img/stefon.jpg" alt="Stefon the Barista">
 									<p>Stefon is a 16-35 year old male who is tech savvy and has a good sense of humor and possibly politically leans to the left. Stefon actively seeks out and shares content, especially political satire, probably accessed from a web browser or smart phone.</p>
 									<h5>Use Scenario</h5>
@@ -67,8 +67,10 @@
 												<li>Read article.</li>
 												<li>Repeat steps 4-6 until they realize they are truly reading America's Finest News Source.</li>
 											</ol></p></li></ul></li>
+															</ol>
+																<h4>Sorry Sally</h4>
+																	<img src="img/sorrysally.jpg" alt="Sorry Sally">
 
-							</ol>
 
 			</body>
 </html>
