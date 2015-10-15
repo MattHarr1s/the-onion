@@ -77,7 +77,7 @@
 							<tr>
 								<th>Stefon</th>
 								<th>The Onion</th>
-							</tr>												<>
+							</tr>
 							<td>
 								<ol><li>Open Web Browser</li>
 									<li>Navigate to www.theonion.com</li>
@@ -110,16 +110,18 @@
 									<li>The Onion communicates with Facebook and posts on Stefon's behalf.</li>
 									<li>The Onion chills.</li></ol>
 							</td>
-						</table>
-					<li><h4>Grandma Sally</h4>
+						</table><ol>
+					<li><h4>Grandma Sally</h4></li></ol>
 						<img src="img/sallyonion.jpg" alt="What's This Onion?">
 						<p>Grandma Sally is a 50-70 year old female who, sadly, was born about 50 years too late to be tech savvy. A few year ago her Grandson Stefon bought her a macbook which she uses to browse Facebook and read the news.
 							Because Sally isn't not very tech savvy, she usually only finds new websites through posts made by her Facebook friends.</p>
-						<h5>Use Scenario</h5><ul><li>After an afternoon of watching Judge Judy stick it to some freeloaders, Sally decided to open up her laptop and browse Facebook. After several minutes of liking pictures of her neighbor's grandson, she noticed a headline demonizing Bernie Sanders for attempting to unionize debate moderators.
+						<h4>Use Scenario</h4>
+						<ul>
+							<li>After an afternoon of watching Judge Judy stick it to some freeloaders, Sally decided to open up her laptop and browse Facebook. After several minutes of liking pictures of her neighbor's grandson, she noticed a headline demonizing Bernie Sanders for attempting to unionize debate moderators.
 								Upoon further investigation Sally realizes the post was made by her grandson Stefon. If there's one thing Grandma Sally knows her Grandson Stefon,
 								it's that he is a dirty liberal commie who would never criticize his savior, Bernie Sanders. Because of this new-found idiosyncrasy in Stefon,
-								Grandma Sally is now hell-bent on examining this so called Onion to find out what it did to her Grandson. In order to do this, Grandma Sally must:
-								<table style="width:100%">`
+								Grandma Sally is now hell-bent on examining this so called Onion to find out what it did to her Grandson. In order to do this, Grandma Sally must:</li></ul>
+														<table style="width:100%">`
 									<tr>
 										<th>Sally</th>
 										<th>The Onion</th>
