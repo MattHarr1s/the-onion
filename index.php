@@ -51,7 +51,7 @@
 														Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</span></a></li>
 												<li><span title="The website opens a new window and activates the necessary link to share content to Facebook or Twitter.">Click either the share to Facebook, or share to Twitter buttons found on the left side of the page.</span></li>
 												<li><span title="The website accesses the appropriate api to call up a new window and creat a facebook or twitter post on behalf of Stefon"> Login to either Facebook or Twitter, via the new browser window that has popped up.</span></li>
-												<li><span title="The website creates a form for text entry that will accompany the upcoming post."> Optional- Write post to accompany link.</span></li>
+												<li><span title="The website creates a form for text entry to capture text to later be applied to the upcoming post."> Optional- Write post to accompany link.</span></li>
 												<li><span title="The website writes a social media post on Stefon's behalf.">Click share button.</span></li>
 												<li><Span title="website chills">Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</span></li>
 												</ol></p></li></ul></li>
