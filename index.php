@@ -123,11 +123,10 @@
 													Article one time. The Onion Article can be tagged by many categories, but can only be tagged once by a specific category. The Politics tag has a one-to-one relationship with The Onion Article,
 													and a one-to-many relationship with articles in general. The Onion Article has a one-to-one relationship with the Politics tag and a one to many relationship with categorical tags.</p>
 
-														<table style width="100%">
+														<table ">
 													<th>Entity Group</th>
 													<th>Relationship Type</th>
-														<td><ol>
-																<li>Stefon + The Onion Article</li>
+														<td><ol><li>Stefon + The Onion Article</li>
 																<li>The Politics Tag + The Onion Article</li>
 																<li>The Politics Tag + articles</li>
 																<li>The Onion Article + categorical tags</li>
@@ -138,22 +137,6 @@
 															<li>Tagging, one-to-many.</li>
 															<li>Tagging, one-to-many.</li>
 														</ol>
-													\\</td>
-														\\<ol>
-															\\<li>email</li>
-															\\<li>phone</li>
-															\\<li>friends list</li>
-															\\<li>profile picture</li>
-															\\<li>like list</li>
-														\\</ol>
-													\\</td>
-
-
-
-
-
-
-
 
 			</body>
 </html>
