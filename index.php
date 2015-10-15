@@ -47,8 +47,7 @@
 													<th colspan="1">The Onion</th>
 												</tr>
 												<tr>
-													<ol>
-													<td><li>Open Web Browser</li></td>
+													<td><ol><li>Open Web Browser</li></td>
 													<td>The Onion chills.</td>
 												</tr>
 												<tr>
@@ -98,7 +97,7 @@
 													<td>The Onion communicates with Facebook and posts on Stefon's behalf.</td>
 												</tr>
 												<tr>
-													<td><li>Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</li></td>
+													<td><li>Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</li></ol></td>
 													<td>The Onion chills.</td>
 												</tr>
 												</ol>
