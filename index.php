@@ -32,6 +32,7 @@
 							two personas that could potentially access America's Finest News Source</p>
 							<ol>
 								<li><h4>Persona 1</h4>
+									<img src="img/stefon.jpg" alt="Stefon the Barista">
 									<p>Stefon is a 16-35 year old male who is tech savvy and has a good sense of humor and possibly politically leans to the left. Stefon actively seeks out and shares content, especially political satire, probably accessed from a web browser or smart phone.</p>
 									<h5>Use Scenario</h5>
 									<ul><li>
