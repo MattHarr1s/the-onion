@@ -129,7 +129,7 @@
 															</td>
 																<td>
 																	<ul>
-																		1-to-many
+																		1-to-many<br>
 																		1-to-many
 																	</ul>
 																</td>
