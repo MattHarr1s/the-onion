@@ -112,51 +112,41 @@
 														<img src="img/sorrysally.jpg" alt="Sorry Sally">
 												<h2>Backend</h2>
 												<h3>Conceptual Model</h3>
-													<p>A conceptual model is a basic map of concepts and relationships used in databases.I am going to describe the relationships at work in the Onion's website for both a single article, and the politics category. </p>
+													<p>A conceptual model is a basic map of concepts and relationships used in databases. I am going to describe some of the relationships at work in the
+														Onion's website for both a single article, and the politics category. </p>
 													<h4>The Onion Article</h4>
 													<p>The Onion Article is an entity, and Stefon is also an entity. Stefon is able to access The Onion Article as many times as he would like,
-														and he can share the article with as many other users as he would like.Sharing the article is an example of a relationship Stephon has with the article and because there is no limit to how many times Stefon can share the article, this relationship is a one to many relationship.</p>
+														and he can share the article with as many other users as he would like. Sharing the article is an example of a relationship Stefon has with the
+														article and because there is no limit to how many times Stefon can share the article, this relationship is a one-to-many relationship.</p>
+														The Onion article has a different relationship with the Politics Category than it has with Stefon. The Politics category tag the Onion Article,
+													causing the Article to become part of the Politics category. The Politics Category is an entity that can tag as many articles as it would like, however it can only tag The Onion
+													Article one time. The Onion Article can be tagged by many categories, but can only be tagged once by a specific category. The Politics tag has a one-to-one relationship with The Onion Article,
+													and a one-to-many relationship with articles in general. The Onion Article has a one-to-one relationship with the Politics tag and a one to many relationship with categorical tags.</p>
 
-												<ol><li>Stefon's Facebook Profile</li>
-													<li>The Onion</li>
-													<li>Facebook</li>
-													<li>Grandma Sally's Facebook Profile</li>
-													<li>Onion Content</li>													</ol>
-												<table style width="100%">
-													<th>Entity</th>
-													<th>Weak Entity</th>
-													<th>Primary Key</th>
-													<th>Attribute</th>
-													<th>Relation</th>
-														<td><ol><li>Stefon's Facebook Profile</li>
-																<li>The Onion</li>
-																<li>Facebook</li>
-																<li>Grandma Sally's Facebook Profile</li>
-																<li>Onion Content</li>
-															</ol></td>
-													<td><li>none</li>
-														<li>none</li>
-														<li>none</li>
-														<li>none</li>
-														<li>none</li>
-													</td>
+														<table style width="100%">
+													<th>Entity Group</th>
+													<th>Relationship Type</th>
+														<td><ol>
+																<li>Stefon + The Onion Article</li>
+																<li>The Politics Tag + The Onion Article</li>
+																<li>The Politics Tag + articles</li>
+																<li>The Onion Article + categorical tags</li>
 													<td>
-														<ol><li>profileid</li>
-															<li>storyname</li>
-															<li>profileid</li>
-															<li>profileid</li>
-															<li>storyname</li>
-														</ol>
-													</td>
 													<td>
-														<ol>
-															<li>email</li>
-															<li>phone</li>
-															<li>friends list</li>
-															<li>profile picture</li>
-															<li>like list</li>
+														<ol><li>Sharing, one-to-many.</li>
+															<li>Tagging, one-to-one.</li>
+															<li>Tagging, one-to-many.</li>
+															<li>Tagging, one-to-many.</li>
 														</ol>
-													</td>
+													\\</td>
+														\\<ol>
+															\\<li>email</li>
+															\\<li>phone</li>
+															\\<li>friends list</li>
+															\\<li>profile picture</li>
+															\\<li>like list</li>
+														\\</ol>
+													\\</td>
 
 
 
