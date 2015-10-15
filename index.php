@@ -73,6 +73,9 @@
 																<h3>Sorry Sally</h3>
 																	<img src="img/sorrysally.jpg" alt="Sorry Sally">
 
+				/////
+				"Stefon just cracked open a fresh growler of a craft "session" India pale ale after a long day's work in the print shop's design studio. After Stefon locks up his 1968 vintage schwinn, modified with a fixed axle of course, he loves drinking a locally sourced craft beer and sitting down at his 2012 MacBook Pro and starting some political debate on Facebook."
+
 
 			</body>
 </html>
