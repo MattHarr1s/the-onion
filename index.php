@@ -46,7 +46,7 @@
 												<tr>
 													<th>Stefon</th>
 													<th>The Onion</th>
-												</tr>												<>
+												</tr>
 													<td>
 														<ol><li>Open Web Browser</li>
 															<li>Navigate to www.theonion.com</li>
