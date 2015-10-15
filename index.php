@@ -36,8 +36,7 @@
 									<p>Stefon is a 16-35 year old male who is tech savvy and has a good sense of humor and possibly politically leans to the left. Stefon actively seeks out and shares content, especially political satire, probably accessed from a web browser or smart phone.</p>
 									<h5>Use Scenario</h5>
 									<ul><li>
-											Stefon just cracked open a fresh<span title=<img src="img/growler.jpg" alt="Growler.jpg">growler></span>
-											of low alcohol, craft, session IPA. THe only fitting way to relax after a long day's work creating artisanal graphics and logos
+											Stefon just cracked open a fresh growler of craft session IPA. The only fitting way to relax after a long day's work creating artisanal graphics and logos
 											in the free-range design studio at the local print shop. After Stefon locks up his 1968 vintage Schwinn that he personally modified with a fixed axle, he loves drinking a locally sourced craft beer and sitting down at his 2012 MacBook Pro, where he spends his miserable life stirring up political drama onFacebook. In order to do this,
 											Stefon must:
 											<p><ol>
