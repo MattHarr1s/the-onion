@@ -129,8 +129,8 @@
 															</td>
 																<td>
 																	<ul>
-																		<li>1-to-many.</li>
-																		<li>1-to-many.</li>
+																		1-to-many
+																		1-to-many
 																	</ul>
 																</td>
 													</table>
