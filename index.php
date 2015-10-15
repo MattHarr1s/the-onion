@@ -30,15 +30,17 @@
 						<p>A persona is a hypothetical written description of an end user who will use your product.
 							Personas are used to model hypothetical use case scenarios for your product.For my data design analysis I have invented
 							two personas that could potentially access America's Finest News Source</p>
-							<ol>
+							<ul>
 								<li><h4>Stefon</h4></li>
 									<img src="img/stefon.jpg" alt="Stefon the Barista">
 									<p>Stefon is a 16-35 year old male who is tech savvy with a good sense of humor. When it come to politics, there is no doubt that Stefon leans to the left. Stefon actively seeks out and shares content, from the screen of his MacBook Pro or his iOs device.
 									<h5>Use Scenario</h5>
-									<ul><li>
-											Stefon just cracked open a fresh growler of La Cumbre Elevated IPA. The only fitting way to relax after a long day's work creating artisanal graphics and logos
-											in the free-range design studio at the local print shop. After Stefon locks up his 1968 vintage Schwinn that he personally modified with a fixed axle, he loves drinking La Cumbre Elevated IPA, which is a locally sourced craft beer and sitting down at his 2012 MacBook Pro,
-											where he spends his miserable life stirring up political drama on Facebook. There are several steps Stefon must take in order to accomplish his goal. These steps are listed in a table below, with the corresponding actions taken by the Onion website.
+							<ul>
+											<p>Stefon just cracked open a fresh growler of La Cumbre Elevated IPA. The only fitting way to relax after a long day's work creating artisanal graphics and logos
+											in the free-range design studio at the local print shop. After Stefon locks up his 1968 vintage Schwinn that he personally modified with a fixed axle,
+											he loves drinking La Cumbre Elevated IPA, which is a locally sourced craft beer and sitting down at his 2012 MacBook Pro,
+											where he spends his miserable life stirring up political drama on Facebook.
+											There are several steps Stefon must take in order to accomplish his goal. These steps are listed in a table below, with the corresponding actions taken by the Onion website.</p>
 
 											<table>
 												<tr>
@@ -79,7 +81,7 @@
 													</td>
 											</table>
 								<li><h4>Grandma Sally</h4></li>
-									</ol>
+									</ul>
 										<img src="img/sallyonion.jpg" alt="What's This Onion?">
 										<p>Grandma Sally is a 50-70 year old female who, sadly, was born about 50 years too late to be tech savvy. A few year ago her Grandson Stefon bought her a macbook which she uses to browse Facebook and read the news.
 											Because Sally isn't not very tech savvy, she usually only finds new websites through posts made by her Facebook friends.</p>
