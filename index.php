@@ -132,6 +132,23 @@
 															</ol></td>
 													<td></td>
 													<td>
+														<ol><li>profileid</li>
+															<li>storyname</li>
+															<li>profileid</li>
+															<li>profileid</li>
+															<li>storyname</li>
+														</ol>
+													</td>
+													<td>
+														<ol>
+															<li>email</li>
+															<li>phone</li>
+															<li>friends list</li>
+															<li>profile picture</li>
+															<li>like list</li>
+														</ol>
+													</td>
+
 
 
 
