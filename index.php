@@ -36,26 +36,89 @@
 									<p>Stefon is a 16-35 year old male who is tech savvy with a good sense of humor. When it come to politics, there is no doubt that Stefon leans to the left. Stefon actively seeks out and shares content, from the screen of his MacBook Pro or his iOs device.
 									<h5>Use Scenario</h5>
 									<ul><li>
-											Stefon just cracked open a fresh growler of craft session IPA. The only fitting way to relax after a long day's work creating artisanal graphics and logos
-											in the free-range design studio at the local print shop. After Stefon locks up his 1968 vintage Schwinn that he personally modified with a fixed axle, he loves drinking a locally sourced craft beer and sitting down at his 2012 MacBook Pro, where he spends his miserable life stirring up political drama on Facebook. In order to do this,
+											Stefon just cracked open a fresh growler of La Cumbre Elevated IPA. The only fitting way to relax after a long day's work creating artisanal graphics and logos
+											in the free-range design studio at the local print shop. After Stefon locks up his 1968 vintage Schwinn that he personally modified with a fixed axle, he loves drinking La Cumbre Elevated IPA, which is a locally sourced craft beer and sitting down at his 2012 MacBook Pro, where he spends his miserable life stirring up political drama on Facebook. In order to do this,
 											Stefon must:
-											<p><ol>
-												<li><span title="The Onion chills.">Open Web Browser</span></li>
-												<li><span title="The Onion sends the requested info to the browser.">Navigate to www.theonion.com</span></li>
-												<li><span title="The Onion opens the drop down navigation menu in the foreground.">Activate the drop down menu by clicking the button on the far left of the header.</span></li>
-												<li><span title="The Onion changes the color of the text from black to gray.">Mouse down past the search bar and video category, to politics.</span></li>
-												<li><span title="The Onion navigates to www.theonion.com/section/politics/.">Click politics.</span></li>
-												<li><span title="The Onion chills.">Read article.</span></li>
-												<li><span title="The Onion repeats steps 4-5 until Stefon finally finds a story worth sharing.">Stefon repeats steps 4-5 until he finds a story worth sharing.</span></li>
-												<li><span title="The Onion delivers the content referenced in the link.">Stefon finds<a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
-														Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</span></a></li>
-												<li><span title="The website opens a new window and activates the necessary link to share content to Facebook.The Onion also communicates with Facebook to determine if Stefon is logged into Facebook.
-																	Once The Onion knows Stefon is logged into Facebook, it then verifies it has Permission to post to Facebook. Facebook also verifies that The Onion has permission to post">Click the share to Facebook button found on the left side of the page.</span></li>
-												<li><span title="The Onion a new window to create a Facebook post on behalf of Stefon. This window is populated with the link to the story on The Onion and displays Stefon's Facebook profile along with a text entry box for Stefon to comment in.">Stefon must decide if he wants to write a caption to accompany the link he is sharing.</span></li>
-												<li><span title="The Onion captures Stefon's text entry to and applies it to the post.">Stefon writes a caption to go with the Facebook post.</span></li>
-												<li><span title="The Onion communicates with Facebook and posts on Stefon's behalf.">Stefon clicks the share button.</span></li>
-												<li><Span title="The Onion chills.">Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</span></li>
-												</ol></p></li></ul></li>
+
+											<table style="width:100%">
+												<caption>Use Scenario</caption>
+												<tr>
+													<th>Stefon</th>
+													<th>The Onion</th>
+												</tr>
+												<tr>
+													<td>Open Web Browser</td>
+													<td>The Onion chills.</td>
+												</tr>
+												<tr>
+													<td>Navigate to www.theonion.com</td>
+													<td>The Onion Sends the requested Data to the browser.</td>
+												</tr>
+												<tr>
+													<td>Activate the drop down menu by clicking the button on the far left of the header.</td>
+													<td>The Onion opens the drop down navigation menu in the foreground.</td>
+												</tr>
+												<tr>
+													<td>Mouse down past the search bar and video category, to politics.</td>
+													<td>The Onion changes the color of the text from black to gray.</td>
+												</tr>
+												<tr>
+													<td>Click politics.</td>
+													<td>The Onion navigates to www.theonion.com/section/politics/.</td>
+												</tr>
+												<tr>
+													<td>Read article.</td>
+													<td>The Onion Chills</td>
+												</tr>
+												<tr>
+													<td>Stefon repeats steps 4-5 until he finds a story worth sharing.</td>
+													<td>The Onion repeats steps 4-5 until Stefon finally finds a story worth sharing.</td>
+												</tr>
+												<tr>
+													<td>Stefon finds<a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
+															Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</td>
+													<td>The Onion delivers the content referenced in the link.</td>
+												</tr>
+												<tr>
+													<td>Click the share to Facebook button found on the left side of the page.</td>
+													<td>The Onion opens a new window and activates the necessary link to share content to Facebook.The Onion also communicates with Facebook to determine if Stefon is logged into Facebook.
+														Once The Onion knows Stefon is logged into Facebook, it then verifies it has Permission to post to Facebook. Facebook also verifies that The Onion has permission to post.</td>
+												</tr>
+												<tr>
+													<td>Stefon must decide if he wants to write a caption to accompany the link he is sharing.</td>
+													<td>The Onion chills.</td>
+												</tr>
+												<tr>
+													<td>Stefon writes a caption to go with the Facebook post</td>
+													<td>The Onion captures Stefon's text and applies it to the post</td>
+												</tr>
+												<tr>
+													<td>Stefon clicks the share button.</td>
+													<td>The Onion communicates with Facebook and posts on Stefon's behalf.</td>
+												</tr>
+												<tr>
+													<td>Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</td>
+													<td>The Onion chills.</td>
+												</tr>
+
+											</table>
+
+
+
+
+
+											//<p><ol>
+
+												//<li><span title=""></span></li>
+												//<li><span title="The Onion chills.">Read article.</span></li>
+												//<li><span title="">Stefon repeats steps 4-5 until he finds a story worth sharing.</span></li>
+												//<li><span title="The Onion delivers the content referenced in the link."></span></a></li>
+												//<li><span title=""></span></li>
+												//<li><span title="">.</span></li>
+												//<li><span title="The Onion captures Stefon's text entry to and applies it to the post.">.</span></li>
+												//<li><span title=""></span></li>
+												//<li><Span title="The Onion chills."></span></li>
+												//</ol></p></li></ul></li>
 								<li><h4>Grandma Sally</h4>
 										<img src="img/sallyonion.jpg" alt="What's This Onion?">
 										<p>Grandma Sally is a 50-70 year old female who, sadly, was born about 50 years too late to be tech savvy. A few year ago her Grandson Stefon bought her a macbook which she uses to browse Facebook and read the news.
