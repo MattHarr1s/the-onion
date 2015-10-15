@@ -114,8 +114,8 @@
 												<h3>Conceptual Model</h3>
 													<p>A conceptual model is a basic map of concepts and relationships used in databases.</p>
 													<h4>The Onion Article and The Politics Tag</h4>
-													<p>The two entities are the The Politics Tag and The Onion Article. The Politics Tag can be applied to many articles.
-														The Onion Article can receive many tags</p>
+													<p>The two entities are the The Politics Tag and The Onion Article. The Politics Tag can be applied to many articles and
+														The Onion Article can receive many tags which means both entities have a one-to-many relationship.</p>
 													<table ">
 														<tr>
 															<th>Entity Group</th>
@@ -128,10 +128,10 @@
 																</ol>
 															</td>
 																<td>
-																	<ol>
+																	<ul>
 																		<li>1-to-many.</li>
 																		<li>1-to-many.</li>
-																	</ol>
+																	</ul>
 																</td>
 													</table>
 
