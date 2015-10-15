@@ -54,7 +54,7 @@
 												<li><span title="The Onion a new window to create a Facebook post on behalf of Stefon. This window is populated with the link to the story on The Onion and displays Stefon's Facebook profile along with a text entry box for Stefon to comment in.">Stefon must decide if he wants to write a caption to accompany the link he is sharing.</span></li>
 												<li><span title="The Onion captures Stefon's text entry to and applies it to the post.">Stefon writes a caption to go with the Facebook post.</span></li>
 												<li><span title="The Onion communicates with Facebook and posts on Stefon's behalf.">Stefon clicks the share button.</span></li>
-												<li><Span title="website chills">Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</span></li>
+												<li><Span title="The Onion chills.">Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</span></li>
 												</ol></p></li></ul></li>
 								<li><h4>Grandma Sally</h4>
 										<img src="img/sallyonion.jpg" alt="What's This Onion?">
