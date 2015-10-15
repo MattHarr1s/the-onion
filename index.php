@@ -78,7 +78,8 @@
 																<li>The Onion chills.</li></ol>
 													</td>
 											</table>
-								<li><h4>Grandma Sally</h4></li></ol>
+								<li><h4>Grandma Sally</h4></li>
+									</ol>
 										<img src="img/sallyonion.jpg" alt="What's This Onion?">
 										<p>Grandma Sally is a 50-70 year old female who, sadly, was born about 50 years too late to be tech savvy. A few year ago her Grandson Stefon bought her a macbook which she uses to browse Facebook and read the news.
 											Because Sally isn't not very tech savvy, she usually only finds new websites through posts made by her Facebook friends.</p>
