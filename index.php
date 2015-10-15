@@ -65,7 +65,7 @@
 												<li><span title="www.facebook.com opens a new browser window containing the contents of the link in the story above">Excitedly click the link Stefon shared.</span></li>
 												<li><span title="website chills">Evaluate the story in the link and try to find the politics category.</span></li>
 												<li><span title="The website opens www.theonion.com/section/politics">Click the politics tag in the upper left of the page, next to the picture and below the headline.</span></li>
-												<li><span title="The website displays varying stories aborve the background in a manner I'm not yet familiar with yet. I should have read more into the pre-work, or taken a few minutes to search on google.">Scroll through articles.</span></li>//scope creep?
+												<li><span title="The website displays varying stories aborve the background in a manner I'm not yet familiar with yet. I should have read more into the pre-work, or taken a few minutes to search on google.">Scroll through articles.</span></li>
 												<li><span title="The website pulls up URL url linked to the headline">Click headline.</span></li>
 												<li><span title="website chills">Read article.</span></li>
 												<li><span title="website repeats steps 4-6 until Stefon finally finds realizes she is reading America's Finest News Source">Repeat steps 4-6 until Grandma Sally realizes she is truly reading America's Finest News Source.</li>
