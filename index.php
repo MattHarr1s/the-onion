@@ -103,14 +103,38 @@
 														<td><ol><li>Facebook communicates with the Onion, and then opens a new browser window containing the contents of the link in the story above.</li>
 																<li>The Onion delivers the website to Sally's browser.</li>
 																<li>The Onion opens www.theonion.com/section/politics.</li>
-																<li>The Onion displays varying stories above the background.">Scroll through articles.</li>
+																<li>The Onion displays varying stories above the background.</li>
 																<li>The Onion pulls up URL url linked to the headline.</li>
 																<li>The Onion chills.</li>
 																<li>The Onion repeats steps 4-6 until Sally finally finds realizes she is reading America's Finest News Source.</li>
 															</ol></td></table>
 																<h3>Sorry Sally</h3>
-
 														<img src="img/sorrysally.jpg" alt="Sorry Sally">
+												<h2>Backend</h2>
+												<h3>Entities</h3>
+												<ol><li>Stefon's Facebook Profile</li>
+													<li>The Onion</li>
+													<li>Facebook</li>
+													<li>Grandma Sally's Facebook Profile</li>
+													<li>Onion Content</li>
+													</ol>
+												<table style width="100%">
+													<th>Entity</th>
+													<th>Weak Entity</th>
+													<th>Primary Key</th>
+													<th>Attribute</th>
+													<th>Relation</th>
+														<td><ol><li>Stefon's Facebook Profile</li>
+																<li>The Onion</li>
+																<li>Facebook</li>
+																<li>Grandma Sally's Facebook Profile</li>
+																<li>Onion Content</li>
+															</ol></td>
+													<td></td>
+													<td>
+
+
+
 
 
 
