@@ -93,7 +93,8 @@
 															<th>Sally</th>
 															<th>The Onion</th>
 														</tr>
-														<td><ol>
+														<td>
+															<ol>
 												<li>Sally excitedly clicks the link Stefon shared.</li>
 												<li>Sally reads the story about Bernie Sanders and decided she wants to read more political stories.</li>
 												<li>After five minutes she finally finds the politics link on the left side of the screen and clicks it.</li>
@@ -101,15 +102,20 @@
 												<li>Click headline.</li>
 												<li>Read article.</li>
 												<li>Repeat steps 4-6 until Grandma Sally realizes she is truly reading America's Finest News Source.</li>
-											</ol></td>
-														<td><ol><li>Facebook communicates with the Onion, and then opens a new browser window containing the contents of the link in the story above.</li>
+											</ol>
+														</td>
+														<td>
+															<ol>
+																<li>Facebook communicates with the Onion, and then opens a new browser window containing the contents of the link in the story above.</li>
 																<li>The Onion delivers the website to Sally's browser.</li>
 																<li>The Onion opens www.theonion.com/section/politics.</li>
 																<li>The Onion displays varying stories above the background.</li>
 																<li>The Onion pulls up URL url linked to the headline.</li>
 																<li>The Onion chills.</li>
 																<li>The Onion repeats steps 4-6 until Sally finally finds realizes she is reading America's Finest News Source.</li>
-															</ol></td></table>
+															</ol>
+														</td>
+													</table>
 																<h3>Sorry Sally</h3>
 														<img src="img/sorrysally.jpg" alt="Sorry Sally">
 												<h2>Backend</h2>
@@ -118,7 +124,7 @@
 													<h4>The Onion Article and The Politics Tag</h4>
 													<p>The two entities are the The Politics Tag and The Onion Article. The Politics Tag can be applied to many articles and
 														The Onion Article can receive many tags which means both entities have a one-to-many relationship.</p>
-													<table ">
+													<table>
 														<tr>
 															<th>Entity Group</th>
 															<th>Relationship Type</th>
