@@ -40,8 +40,7 @@
 											in the free-range design studio at the local print shop. After Stefon locks up his 1968 vintage Schwinn that he personally modified with a fixed axle, he loves drinking La Cumbre Elevated IPA, which is a locally sourced craft beer and sitting down at his 2012 MacBook Pro,
 											where he spends his miserable life stirring up political drama on Facebook. There are several steps Stefon must take in order to accomplish his goal. These steps are listed in a table below, with the corresponding actions taken by the Onion website.
 
-											<table style="width:100%">
-`
+											<table style="width:100%">`
 												<tr>
 													<th>Stefon</th>
 													<th>The Onion</th>
@@ -87,20 +86,32 @@
 											Upoon further investigation Sally realizes the post was made by her grandson Stefon. If there's one thing Grandma Sally knows her Grandson Stefon,
 											it's that he is a dirty liberal commie who would never criticize his savior, Bernie Sanders. Because of this new-found idiosyncrasy in Stefon,
 											Grandma Sally is now hell-bent on examining this so called Onion to find out what it did to her Grandson. In order to do this, Grandma Sally must:
-											<p><ol>
-												<li><span title="Facebook communicates with the Onion, and then opens a new browser window containing the contents of the link in the story above.">Sally excitedly clicks the link Stefon shared.</span></li>
-												<li><span title="The Onion delivers the website to Sally's browser.">Sally reads the story about Bernie Sanders and decided she wants to read more political stories.</span></li>
-												<li><span title="The Onion opens www.theonion.com/section/politics.">After five minutes she finally finds the politics link on the left side of the screen and clicks it.</span></li>
-												<li><span title="The Onion displays varying stories above the background.">Scroll through articles.</span></li>
-												<li><span title="The Onion pulls up URL url linked to the headline.">Click headline.</span></li>
-												<li><span title="The Onion chills.">Read article.</span></li>
-												<li><span title="The Onion repeats steps 4-6 until Sally finally finds realizes she is reading America's Finest News Source.">Repeat steps 4-6 until Grandma Sally realizes she is truly reading America's Finest News Source.</li>
-											</ol></p></li></ul></li>
-															</ol>
+													<table style="width:100%">`
+														<tr>
+															<th>Sally</th>
+															<th>The Onion</th>
+														</tr>
+														<td><ol>
+												<li>>Sally excitedly clicks the link Stefon shared.</li>
+												<li>Sally reads the story about Bernie Sanders and decided she wants to read more political stories.</li>
+												<li>After five minutes she finally finds the politics link on the left side of the screen and clicks it.</li>
+												<li>Scroll through articles.</li>
+												<li>Click headline.</li>
+												<li>Read article.</li>
+												<li>Repeat steps 4-6 until Grandma Sally realizes she is truly reading America's Finest News Source.</li>
+											</ol></td>
+														<td><ol><li>Facebook communicates with the Onion, and then opens a new browser window containing the contents of the link in the story above.</li>
+																<li>The Onion delivers the website to Sally's browser.</li>
+																<li>The Onion opens www.theonion.com/section/politics.</li>
+																<li>The Onion displays varying stories above the background.">Scroll through articles.</li>
+																<li>The Onion pulls up URL url linked to the headline.</li>
+																<li>The Onion chills.</li>
+																<li>The Onion repeats steps 4-6 until Sally finally finds realizes she is reading America's Finest News Source.</li>
+															</ol></td>
 																<h3>Sorry Sally</h3>
-																	<img src="img/sorrysally.jpg" alt="Sorry Sally">
 
-				/////
+														<img src="img/sorrysally.jpg" alt="Sorry Sally">
+
 
 
 
