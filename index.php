@@ -37,14 +37,14 @@
 									<h5>Use Scenario</h5>
 									<ul><li>
 											Stefon just cracked open a fresh growler of La Cumbre Elevated IPA. The only fitting way to relax after a long day's work creating artisanal graphics and logos
-											in the free-range design studio at the local print shop. After Stefon locks up his 1968 vintage Schwinn that he personally modified with a fixed axle, he loves drinking La Cumbre Elevated IPA, which is a locally sourced craft beer and sitting down at his 2012 MacBook Pro, where he spends his miserable life stirring up political drama on Facebook. In order to do this,
-											Stefon must:
+											in the free-range design studio at the local print shop. After Stefon locks up his 1968 vintage Schwinn that he personally modified with a fixed axle, he loves drinking La Cumbre Elevated IPA, which is a locally sourced craft beer and sitting down at his 2012 MacBook Pro,
+											where he spends his miserable life stirring up political drama on Facebook. There are several steps Stefon must take in order to accomplish his goal. These steps are listed in a table below, with the corresponding actions taken by the Onion website.
 
 											<table style="width:100%">
-												<caption>Use Scenario</caption>
+
 												<tr>
-													<th>Stefon</th>
-													<th>The Onion</th>
+													<th colspan="2">Stefon</th>
+													<th colspan="2">The Onion</th>
 												</tr>
 												<tr>
 													<td>Open Web Browser</td>
@@ -100,25 +100,7 @@
 													<td>Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</td>
 													<td>The Onion chills.</td>
 												</tr>
-
 											</table>
-
-
-
-
-
-											//<p><ol>
-
-												//<li><span title=""></span></li>
-												//<li><span title="The Onion chills.">Read article.</span></li>
-												//<li><span title="">Stefon repeats steps 4-5 until he finds a story worth sharing.</span></li>
-												//<li><span title="The Onion delivers the content referenced in the link."></span></a></li>
-												//<li><span title=""></span></li>
-												//<li><span title="">.</span></li>
-												//<li><span title="The Onion captures Stefon's text entry to and applies it to the post.">.</span></li>
-												//<li><span title=""></span></li>
-												//<li><Span title="The Onion chills."></span></li>
-												//</ol></p></li></ul></li>
 								<li><h4>Grandma Sally</h4>
 										<img src="img/sallyonion.jpg" alt="What's This Onion?">
 										<p>Grandma Sally is a 50-70 year old female who, sadly, was born about 50 years too late to be tech savvy. A few year ago her Grandson Stefon bought her a macbook which she uses to browse Facebook and read the news.
