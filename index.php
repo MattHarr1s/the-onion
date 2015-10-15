@@ -111,13 +111,17 @@
 																<h3>Sorry Sally</h3>
 														<img src="img/sorrysally.jpg" alt="Sorry Sally">
 												<h2>Backend</h2>
-												<h3>Entities</h3>
+												<h3>Conceptual Model</h3>
+													<p>A conceptual model is a basic map of concepts and relationships used in databases.I am going to describe the relationships at work in the Onion's website for both a single article, and the politics category. </p>
+													<h4>The Onion Article</h4>
+													<p>The Onion Article is an entity, and Stefon is also an entity. Stefon is able to access The Onion Article as many times as he would like,
+														and he can share the article with as many other users as he would like.Sharing the article is an example of a relationship Stephon has with the article and because there is no limit to how many times Stefon can share the article, this relationship is a one to many relationship.</p>
+
 												<ol><li>Stefon's Facebook Profile</li>
 													<li>The Onion</li>
 													<li>Facebook</li>
 													<li>Grandma Sally's Facebook Profile</li>
-													<li>Onion Content</li>
-													</ol>
+													<li>Onion Content</li>													</ol>
 												<table style width="100%">
 													<th>Entity</th>
 													<th>Weak Entity</th>
