@@ -33,7 +33,7 @@
 							<ol>
 								<li><h4>Stefon</h4>
 									<img src="img/stefon.jpg" alt="Stefon the Barista">
-									<p>Stefon is a 16-35 year old male who is tech savvy and has a good sense of humor and possibly politically leans to the left. Stefon actively seeks out and shares content, especially political satire, probably accessed from a web browser or smart phone.</p>
+									<p>Stefon is a 16-35 year old male who is tech savvy with a good sense of humor. When it come to politics, there is now doubt that Stefon leans to the left. Stefon actively seeks out and shares content, especially political satire, probably accessed from a web browser or smart phone.</p>
 									<h5>Use Scenario</h5>
 									<ul><li>
 											Stefon just cracked open a fresh growler of craft session IPA. The only fitting way to relax after a long day's work creating artisanal graphics and logos
