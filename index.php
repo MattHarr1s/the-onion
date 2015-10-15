@@ -41,65 +41,67 @@
 											where he spends his miserable life stirring up political drama on Facebook. There are several steps Stefon must take in order to accomplish his goal. These steps are listed in a table below, with the corresponding actions taken by the Onion website.
 
 											<table style="width:100%">
-
+`
 												<tr>
-													<th colspan="2">Stefon</th>
-													<th colspan="2">The Onion</th>
+													<th colspan="1">Stefon</th>
+													<th colspan="1">The Onion</th>
 												</tr>
 												<tr>
-													<td>Open Web Browser</td>
+													<ol>
+													<td><li>Open Web Browser</li></td>
 													<td>The Onion chills.</td>
 												</tr>
 												<tr>
-													<td>Navigate to www.theonion.com</td>
+													<td><li>Navigate to www.theonion.com</li></td>
 													<td>The Onion Sends the requested Data to the browser.</td>
 												</tr>
 												<tr>
-													<td>Activate the drop down menu by clicking the button on the far left of the header.</td>
+													<td><li>Activate the drop down menu by clicking the button on the far left of the header.</li></td>
 													<td>The Onion opens the drop down navigation menu in the foreground.</td>
 												</tr>
 												<tr>
-													<td>Mouse down past the search bar and video category, to politics.</td>
+													<td><li>Mouse down past the search bar and video category, to politics.</li></td>
 													<td>The Onion changes the color of the text from black to gray.</td>
 												</tr>
 												<tr>
-													<td>Click politics.</td>
+													<td><li>Click politics.</li></td>
 													<td>The Onion navigates to www.theonion.com/section/politics/.</td>
 												</tr>
 												<tr>
-													<td>Read article.</td>
+													<td><li>Read article.</li></td>
 													<td>The Onion Chills</td>
 												</tr>
 												<tr>
-													<td>Stefon repeats steps 4-5 until he finds a story worth sharing.</td>
+													<td><li>Stefon repeats steps 4-5 until he finds a story worth sharing.</li></td>
 													<td>The Onion repeats steps 4-5 until Stefon finally finds a story worth sharing.</td>
 												</tr>
 												<tr>
-													<td>Stefon finds<a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
-															Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</td>
+													<td><li>Stefon finds<a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
+															Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</li></td>
 													<td>The Onion delivers the content referenced in the link.</td>
 												</tr>
 												<tr>
-													<td>Click the share to Facebook button found on the left side of the page.</td>
+													<td><li>Click the share to Facebook button found on the left side of the page.</li></td>
 													<td>The Onion opens a new window and activates the necessary link to share content to Facebook.The Onion also communicates with Facebook to determine if Stefon is logged into Facebook.
 														Once The Onion knows Stefon is logged into Facebook, it then verifies it has Permission to post to Facebook. Facebook also verifies that The Onion has permission to post.</td>
 												</tr>
 												<tr>
-													<td>Stefon must decide if he wants to write a caption to accompany the link he is sharing.</td>
+													<td><li>Stefon must decide if he wants to write a caption to accompany the link he is sharing.</li></td>
 													<td>The Onion chills.</td>
 												</tr>
 												<tr>
-													<td>Stefon writes a caption to go with the Facebook post</td>
-													<td>The Onion captures Stefon's text and applies it to the post</td>
+													<td><li>Stefon writes a caption to go with the Facebook post.</li></td>
+													<td>The Onion captures Stefon's text and applies it to the post.</td>
 												</tr>
 												<tr>
-													<td>Stefon clicks the share button.</td>
+													<td><li>Stefon clicks the share button.</li></td>
 													<td>The Onion communicates with Facebook and posts on Stefon's behalf.</td>
 												</tr>
 												<tr>
-													<td>Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</td>
+													<td><li>Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</li></td>
 													<td>The Onion chills.</td>
 												</tr>
+												</ol>
 											</table>
 								<li><h4>Grandma Sally</h4>
 										<img src="img/sallyonion.jpg" alt="What's This Onion?">
