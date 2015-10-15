@@ -68,7 +68,7 @@
 												<li>Repeat steps 4-6 until they realize they are truly reading America's Finest News Source.</li>
 											</ol></p></li></ul></li>
 															</ol>
-																<h4>Sorry Sally</h4>
+																<h3>Sorry Sally</h3>
 																	<img src="img/sorrysally.jpg" alt="Sorry Sally">
 
 
