@@ -54,12 +54,14 @@
 												<li><span title="The website writes a social media post on Stefon's behalf.">Click share button.</span></li>
 												<li>Laugh about the fact article that is now shared to Stefon's social network and grandma or grandpa might find it.</li>
 												</ol></p></li></ul></li>
-								<li><h4>Persona 2</h4>
-										<p>Sally is a 50-70 year old female who is not tech savvy and might have been exposed to America's Finest News Source from a social media posting by a much younger relative.</p>
-										<h5>Use Scenario</h5><ul><li>Sally was browsing Facebook when she noticed her grandson Stefon, had posted a story critical of Bernie Sanders. Sally knows Stefon is a dirty liberal commie, and wants to
-											investigate the other political stories on this new website, and make a judgment about the quality of this new website. In order to do this, Sally must:
+								<li><h4>Grandma Sally</h4>
+										<img src="img/sallyonion.jpg" alt="What's This Onion?">
+										<p>Grandma Sally is a 50-70 year old female who, sadly, was born about 50 years too late to be tech savvy. Because of this she has not been exposed to America's Finest News Source.</p>
+										<h5>Use Scenario</h5><ul><li>Sally was browsing Facebook when she noticed a post made by her grandson Stefon, of a news article critical of Bernie Sanders. If there's one thing Grandma Sally knows her Grandson Stefon,
+											it's that he is a dirty liberal commie who would never criticize his savior, Bernie Sanders.Because of this new-found idiosyncrasy in Stefon,
+											Grandma Sally is now hell-bent on examining this so called Onion to find out what it did to her Grandson. In order to do this, Grandma Sally must:
 											<p><ol>
-												<li>Click the link Stefon shared.</li>
+												<li>Excitedly click the link Stefon shared.</li>
 												<li>Evaluate the story in the link and try to find the politics category.</li>
 												<li>Click the politics tag in the upper left of the page, next to the picture and below the headline.</li>
 												<li>Scroll through articles.</li>
