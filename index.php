@@ -130,7 +130,12 @@
 																<li>Grandma Sally's Facebook Profile</li>
 																<li>Onion Content</li>
 															</ol></td>
-													<td></td>
+													<td><li>none</li>
+														<li>none</li>
+														<li>none</li>
+														<li>none</li>
+														<li>none</li>
+													</td>
 													<td>
 														<ol><li>profileid</li>
 															<li>storyname</li>
