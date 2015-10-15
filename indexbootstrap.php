@@ -71,7 +71,7 @@
 				<ul><li>
 						Stefon just cracked open a fresh growler of La Cumbre Elevated IPA. The only fitting way to relax after a long day's work creating artisanal graphics and logos
 						in the free-range design studio at the local print shop. After Stefon locks up his 1968 vintage Schwinn that he personally modified with a fixed axle, he loves drinking La Cumbre Elevated IPA, which is a locally sourced craft beer and sitting down at his 2012 MacBook Pro,
-						where he spends his miserable life stirring up political drama on Facebook. There are several steps Stefon must take in order to accomplish his goal. These steps are listed in a table below, with the corresponding actions taken by the Onion website.
+						where he spends his miserable life stirring up political drama on Facebook. There are several steps Stefon must take in order to accomplish his goal. These steps are listed in a table below, with the corresponding actions taken by the Onion website.</li></ul>
 
 						<table>
 							<tr>
@@ -87,7 +87,7 @@
 									<li>Read article.</li>
 									<li>Stefon repeats steps 4-5 until he finds a story worth sharing.</li>
 									<li>Stefon finds<a href="http://www.theonion.com/article/bernie-sanders-repeatedly-scolded-attempting-union-51537" target="_blank">
-											Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</li>
+											Bernie Sanders Repeatedly Scolded For Attempting To Unionize Debate Moderators</a></li>
 									<li>Click the share to Facebook button found on the left side of the page.</li>
 									<li>Stefon must decide if he wants to write a caption to accompany the link he is sharing.</li>
 									<li>Stefon writes a caption to go with the Facebook post.</li>
