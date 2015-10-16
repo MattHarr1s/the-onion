@@ -133,7 +133,7 @@
 															<td>
 																<ol>
 																	<li>Tag, many-to-many</li>
-																	<li>Articles, many-to-many</li>
+																	<li>Article, many-to-many</li>
 																</ol>
 															</td>
 													</table>
