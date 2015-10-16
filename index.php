@@ -124,8 +124,8 @@
 												<h3>Conceptual Model</h3>
 													<p>A conceptual model is a basic map of concepts and relationships used in databases.</p>
 													<h4>Articles and Tags</h4>
-													<p>The two entities are the Tag and the Article. Tags can be applied to many articles and
-														Articles can receive many tags which means both entities have a many-to-many relationship.</p>
+													<p>The two entities are the Tag and the Article. Because Tags can be applied to many articles and
+														Articles can receive many tags both entities have a many-to-many relationship.</p>
 													<table>
 														<tr>
 															<th>Entites and Relationship Types</th>
