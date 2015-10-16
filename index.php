@@ -141,16 +141,19 @@
 									<h5>The Onion Article</h5>
 										<ul>
 											<li>articleId, primary key </li>
-											<li>tagId, primary key</li>
+											<li>tagged, relation</li>
 											<li>articleDate, attribute</li>
 											<li>issueId, attribute</li>
+											<li>articleContent, attribute</li>
+											<li>tag, weak entity</li>
 										</ul>
 									<h5>The Politics Tag</h5>
 										<ul>
 											<li>articleId, primary key </li>
-											<li>tagId, primary key</li>
+											<li>tagged, relation </li>
 											<li>articleDate, attribute</li>
 											<li>issueId, attribute</li>
+											<li>tag, weak entity</li>
 										</ul>
 
 			</body>
