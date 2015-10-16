@@ -123,22 +123,22 @@
 												<h2>Backend</h2>
 												<h3>Conceptual Model</h3>
 													<p>A conceptual model is a basic map of concepts and relationships used in databases.</p>
-													<h4>The Onion Article and The Politics Tag</h4>
-													<p>The two entities are the The Politics Tag and The Onion Article. The Politics Tag can be applied to many articles and
-														The Onion Article can receive many tags which means both entities have a one-to-many relationship.</p>
+													<h4>Articles and Tags</h4>
+													<p>The two entities are the Tag and the Article. Tags can be applied to many articles and
+														Articles can receive many tags which means both entities have a many-to-many relationship.</p>
 													<table>
 														<tr>
 															<th>Entites and Relationship Types</th>
 														</tr>
 															<td>
 																<ol>
-																	<li>The Politics Tag, 1-to-many</li>
-																	<li>The Onion Article,1-to-many</li>
+																	<li>Tag, many-to-many</li>
+																	<li>Articles, many-to-many</li>
 																</ol>
 															</td>
 													</table>
 								<h4>Attributes</h4>
-									<h5>The Onion Article</h5>
+									<h5>Article</h5>
 										<ul>
 											<li>articleId, primary key </li>
 											<li>tagged, relation</li>
@@ -146,14 +146,16 @@
 											<li>issueId, attribute</li>
 											<li>articleContent, attribute</li>
 											<li>tag, weak entity</li>
+											<li>tagId, attribute</li>
 										</ul>
-									<h5>The Politics Tag</h5>
+									<h5>Tag</h5>
 										<ul>
 											<li>articleId, primary key </li>
 											<li>tagged, relation </li>
 											<li>articleDate, attribute</li>
 											<li>issueId, attribute</li>
 											<li>tag, weak entity</li>
+											<li>tagId, attribute</li>
 										</ul>
 
 			</body>
