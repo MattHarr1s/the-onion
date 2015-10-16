@@ -137,6 +137,21 @@
 																</ol>
 															</td>
 													</table>
+								<h4>Attributes</h4>
+									<h5>The Onion Article</h5>
+										<ul>
+											<li>articleId, primary key </li>
+											<li>tagId, primary key</li>
+											<li>articleDate, attribute</li>
+											<li>issueId, attribute</li>
+										</ul>
+									<h5>The Politics Tag</h5>
+										<ul>
+											<li>articleId, primary key </li>
+											<li>tagId, primary key</li>
+											<li>articleDate, attribute</li>
+											<li>issueId, attribute</li>
+										</ul>
 
 			</body>
 </html>
