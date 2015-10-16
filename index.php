@@ -128,21 +128,14 @@
 														The Onion Article can receive many tags which means both entities have a one-to-many relationship.</p>
 													<table>
 														<tr>
-															<th>Entity Group</th>
-															<th>Relationship Type</th>
+															<th>Entites and Relationship Types</th>
 														</tr>
 															<td>
 																<ol>
-																	<li>The Politics Tag + The Onion Article</li>
-																	<li>The Onion Article + The Politics Tag</li>
+																	<li>The Politics Tag, 1-to-many</li>
+																	<li>The Onion Article,1-to-many</li>
 																</ol>
 															</td>
-																<td>
-																	<ul>
-																		1-to-many<br>
-																		1-to-many
-																	</ul>
-																</td>
 													</table>
 
 			</body>
