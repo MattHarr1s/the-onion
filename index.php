@@ -141,21 +141,14 @@
 									<h5>Article</h5>
 										<ul>
 											<li>articleId, primary key </li>
-											<li>tagged, relation</li>
 											<li>articleDate, attribute</li>
 											<li>issueId, attribute</li>
 											<li>articleContent, attribute</li>
-											<li>tag, weak entity</li>
-											<li>tagId, attribute</li>
 										</ul>
 									<h5>Tag</h5>
 										<ul>
-											<li>articleId, primary key </li>
-											<li>tagged, relation </li>
-											<li>articleDate, attribute</li>
-											<li>issueId, attribute</li>
-											<li>tag, weak entity</li>
-											<li>tagId, attribute</li>
+											<li>articleId, foreign key </li>
+											<li>tagId, primary key</li>
 										</ul>
 
 			</body>
