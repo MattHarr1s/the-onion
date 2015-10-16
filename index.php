@@ -149,6 +149,7 @@
 										<ul>
 											<li>articleId, foreign key </li>
 											<li>tagId, primary key</li>
+											<li>tagName, attribute</li>
 										</ul>
 
 			</body>
