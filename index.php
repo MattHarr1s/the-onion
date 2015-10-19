@@ -151,6 +151,8 @@
 											<li>tagId, primary key</li>
 											<li>tagName, attribute</li>
 										</ul>
+									<h5>Entity Relationship Diagram</h5>
+								<img src="img/onion-article-erd.svg" alt="Onion ERD">
 
 			</body>
 </html>
