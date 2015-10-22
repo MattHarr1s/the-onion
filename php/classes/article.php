@@ -74,19 +74,19 @@ class Article{
 	 * @throws RangeException if $newArticleId is not positive
 	 **/
 
-	public function setArticleId ($newArticlceId){
+	public function setArticleId ($newArticleId){
 		// base case: if the articleId is null, this is a new article without a mySQL assigned id (yet)
-		if ($newArticlceId === false){
+		if ($newArticleId === false){
 				$this->articleId = null;
 				return;
 		}
 		// verify the articleId is valid
 		$newArticleId = filter_var($newArticleId, FILTER_VALIDATE_INT);
-		if($newArticlceId === false){
+		if($newArticleId === false){
 			throw(new InvalidArgumentException("article id is not a valid integer"));
 		}
 		// verify the articleId is positive
-		if($newArticlceId <= 0){
+		if($newArticleId <= 0){
 			throw(new RangeException("article id is not positive"));
 		}
 		//convert and store the articleId
@@ -101,6 +101,54 @@ class Article{
 			return($this->articleContent);
 	}
 	/**
+	 * mutator method for article content
+	 *
+	 * @param string $newArticleContent new value of article content
+	 * @throws InvalidArgumentException if $newArticleContent is not a string or insecure
+	 **/
+	public function setArticleContent($newArticleContent){
+		// verify the article content is secure
+		$newArticleContent = trim($newArticleContent);
+		$newArticleContent = filter_var($newArticleContent, FILTER_SANITIZE_STRING);
+		if(empty($newArticleContent) === true){
+				throw(new InvalidArgumentException("article content is empty or insecure"));
+		}
+		//store the article content
+		$this->articleContent = $newArticleContent;
+	}
+	/**
+	 * accesssor method for article date
+	 *
+	 * @return DATETIME value of article date
+	 **/
+	public function getArticleDate(){
+		return($this->articleDate);
+	}
+	/** mutator method for article date
+	 *
+	 * @param mixed $newArticleDate article date as a DateTime object or string (or null to load the currrent time)
+	 * @throws InvalidArgumentException if $newArticleDate is not a valid object or string
+	 * @throws RangeException if $newArticleDate is a date that does not exist
+	 **/
+	public function setArticleDate($newArticleDate){
+		// base case:: if the date is null, use the current date and time
+		if($newArticleDate === null){
+				$this->articleDate = new DateTime();
+				return;
+		}
+		// store the article date
+		try{
+			$newArticleDate = validateDate($newArticleDate);
+		}catch(InvalidArgumentException $invalidArgument) {
+			throw(new InvalidArgumentException($invalidArgument->getMessage(), 0, $invalidArgument));
+		}catch (RangeException $range) {
+			throw(new RangeException($range->getMessage(), 0, $range));
+		}catch(Exception $exception){
+			throw(new Exception($exception->getMessage(),0,$exception));
+		}
+		$this->articleDate = $newArticleDate;
+	}
 }
+
 
 
