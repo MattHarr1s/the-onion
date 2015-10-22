@@ -8,7 +8,7 @@ require_once(dirname(dirname(__DIR__)). "php/classes/article.php");
  *
  * @author Matt Harris <mateodelay@gmail.com>
  **/
-class Article {
+class Article{
 	/**
 	 * id for this article; this is the primary key
 	 * @var int $articleId
@@ -47,7 +47,7 @@ class Article {
 			$this->setArticleContent($newArticleContent);
 			$this->setArticleDate($newArticleDate);
 			$this->setIssueId($newIssueId);
-	}catch(invalidArgumentException $invalidArgument) {
+	}catch(invalidArgumentException $invalidArgument){
 			// rethrow the exception to the caller
 			throw(new InvalidArgumentException($invalidArgument ->getMessage(),0,$invalidArgument));
 	}catch(RangeException $range){
@@ -75,9 +75,9 @@ class Article {
 	 **/
 
 	public function setArticleId ($newArticlceId){
-		// base case: if the articleId is null, this is a new article without a mySQL assignet id (yet)
+		// base case: if the articleId is null, this is a new article without a mySQL assigned id (yet)
 		if ($newArticlceId === false){
-				$this->articleId=null;
+				$this->articleId = null;
 				return;
 		}
 		// verify the articleId is valid
@@ -92,4 +92,15 @@ class Article {
 		//convert and store the articleId
 		$this->articleId = intval ($newArticleId);
 	}
+	/**
+	 * accessor method for articeContent
+	 *
+	 * return string value of tweet content
+	 **/
+	public function getArticleContent(){
+			return($this->articleContent);
+	}
+	/**
 }
+
+
