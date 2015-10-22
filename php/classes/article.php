@@ -26,7 +26,7 @@ class Article{
 	private $articleDate;
 	/**
 	 * issue this article belongs to
-	 * @var string $issueId
+	 * @var int $issueId
 	 **/
 	private $issueId;
 
@@ -148,6 +148,35 @@ class Article{
 		}
 		$this->articleDate = $newArticleDate;
 	}
+	/**
+	 * accessor method for issueId
+	 *
+	 * @return int value of issueId
+	 **/
+	public function setIssueId($newIssueId){
+		return($this->issueId);
+	}
+	/**
+	 * mutator method for issueId
+	 *
+	 * @param int $newIssueId new value of issueId
+	 * @throws InvalidArgumentException if $newIssueId is not an integer or not positive
+	 * @throws RangeExeption if $newIssueId is not positive
+	 **/
+	public function setIssueId($newIssueId){
+		// verify the issueId is valid
+		$newIssueId = filter_var($newIssueId, FILTER_VALIDATE_INT);
+		if($newIssueId === false){
+			throw(new InvalidArgumentException("issue id is not a positive integer"));
+		}
+		// verify the newIssueId is positive
+		if($newIssueId <= 0){
+				throw(new RangeException("issue id is not positive"));
+		}
+		// convert and store the issue id
+		$this->issueId = intval($newIssueId);
+			}
+
 }
 
 
