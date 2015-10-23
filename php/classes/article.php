@@ -5,6 +5,13 @@ require_once(dirname(dirname(__DIR__)). "php/classes/article.php");
  * Class Article for the website "The Onion"
  *
  * This class can be used for any online publication including a newspaper or a blog.
+ * Articles are given four attributes as follows
+ * 1.ArticleId
+ * 2.ArticleContent
+ * 3.ArticleDate
+ * 4.IssueId
+ * When a new Article object is created it is automatically given the four attributes.
+ * The new Article entry is then created in the mySQL database
  *
  * @author Matt Harris <mateodelay@gmail.com>
  **/
@@ -34,14 +41,14 @@ class Article{
 	 * constructor for this Article
 	 *
 	 * @param mixed $newArticleId id of this article or null if a new article
-	 * @param string $articleContent string containing actual article data
+	 * @param string $newArticleContent string containing actual article data
 	 * @param mixed $newArticleDate date and time Article was published or null if set to current date and time
 	 * @param int $newIssueId id of the issue Article was published in
 	 * @throws InvalidArgumentException if data types are not valid
 	 * @throws RangeException if data values are out of bounds (e.g. strings too long, negative integers
 	 * @throws Exception if some other exception is thrown
 	 **/
-	public function __construct($newArticleId,$newArticleContent,$newArticleDate = null,$newIssueId){
+	public function __construct($newArticleId,$newArticleContent,$newArticleDate ,$newIssueId){
 		try{
 			$this->setArticleId($newArticleId);
 			$this->setArticleContent($newArticleContent);
@@ -139,7 +146,7 @@ class Article{
 		}
 		// store the article date
 		try{
-			$newArticleDate = validateDate($newArticleDate);
+			$newArticleDate =($newArticleDate);
 		}catch(InvalidArgumentException $invalidArgument) {
 			throw(new InvalidArgumentException($invalidArgument->getMessage(), 0, $invalidArgument));
 		}catch (RangeException $range) {
