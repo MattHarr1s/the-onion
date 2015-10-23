@@ -176,6 +176,23 @@ class Article{
 		// convert and store the issue id
 		$this->issueId = intval($newIssueId);
 			}
+/**
+ * inserts this article into mySQL
+ *
+ * @param PDO $pdo pointer to PDO connection, by reference
+ * @throws PDOException when mySQL related errors occur
+ **/
+	public function insert(PDO&$PDO){
+		//enforce the articleId is null( i.e., don't insert a tweet that already exists)
+		if($this->articleId !== null){
+				throw(new PDOException("not a new article"));
+		}
+		// create query template
+		$query
+	="INSERT INTO article(articleDate, issueId, articleContent) VALUES (:articleDate, :issueId,:articleContent)";
+		$statement = $pdo->prepare($query);
+
+	}
 
 }
 
