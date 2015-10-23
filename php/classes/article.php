@@ -4,7 +4,7 @@ require_once(dirname(dirname(__DIR__)). "php/classes/article.php");
 /**
  * Class Article for the website "The Onion"
  *
- * This class can be used for any online publication.
+ * This class can be used for any online publication including a newspaper or a blog.
  *
  * @author Matt Harris <mateodelay@gmail.com>
  **/
@@ -124,11 +124,12 @@ class Article{
 	public function getArticleDate(){
 		return($this->articleDate);
 	}
-	/** mutator method for article date
+	/**
+	 * mutator method for article date
 	 *
-	 * @param mixed $newArticleDate article date as a DateTime object or string (or null to load the currrent time)
-	 * @throws InvalidArgumentException if $newArticleDate is not a valid object or string
-	 * @throws RangeException if $newArticleDate is a date that does not exist
+	 *@param mixed $newArticleDate article date as a DateTime object or string (or null to load the currrent time)
+	 *@throws InvalidArgumentException if $newArticleDate is not a valid object or string
+	 *@throws RangeException if $newArticleDate is a date that does not exist
 	 **/
 	public function setArticleDate($newArticleDate){
 		// base case:: if the date is null, use the current date and time
@@ -189,12 +190,12 @@ class Article{
 		}
 		// create query template
 		$query
-	="INSERT INTO article(articleDate, issueId, articleContent) VALUES (:articleDate, :issueId,:articleContent)";
+	="INSERT INTO article(articleDate, issueId, articleContent) VALUES(:articleDate, :issueId,:articleContent)";
 		$statement = $pdo->prepare($query);
 
 		// bind the member values to the placeholders in the template
 		$formattedDate= $this->articleDate->format("Y-m-d H:i:s");
-		$parameters = array("articleDate"=>$formattedDate, $this"issueId"=>$this->issueId,"articleContent"=>$this->
+		$parameters = array("articleDate"=>$formattedDate,"issueId"=>$this->issueId,"articleContent"=>$this->
 		articleContent,);
 		$statement->execute($parameters);
 
@@ -244,6 +245,16 @@ class Article{
 	$this->articleId);
 		$statement->execute($parameters);
 	}
+/**
+ * gets the article by content
+ *
+ * @param PDO $pdo PDO connection object
+ * @param string $articleContent article content to search for
+ * @return SplFixedArray all Articles found for this content
+ * @throws PDOException when mySQL related errors occur
+ *
+ **/
+public static function getArticleByArticleContent(PDO $pdo, $articleContent)
 }
 
 
