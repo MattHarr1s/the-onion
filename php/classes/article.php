@@ -194,11 +194,32 @@ class Article{
 
 		// bind the member values to the placeholders in the template
 		$formattedDate= $this->articleDate->format("Y-m-d H:i:s");
-		$parameters = array("articleDate"=>$formattedDate, $this"issueId"=>$this->issueId,"articleContent"=>$this->articleContent,);
+		$parameters = array("articleDate"=>$formattedDate, $this"issueId"=>$this->issueId,"articleContent"=>$this->
+		articleContent,);
 		$statement->execute($parameters);
 
 		// update the null articleId with what mySQL just gave us
 		$this->articleId = intval($pdo->lastInsertId());
+	}
+/**
+ * deletes this Article from mySQL
+ *
+ * @param PDO $pdo PDO connection object
+ * @throws PDOException when mySQL related errors occur
+ **/
+	public function delete(PDO $pdo){
+		// enforce the articleId is not null( i.e.,don't delete an article that hasn't been inserted)
+		if($this->articleId === null){
+			throw(new PDOException("unable to delete an article that does not exist"));
+		}
+
+		//create query template
+		$query = "DELETE FROM article WHERE articleId = :articleId";
+		$statement = $pdo->prepare($query);
+
+		// bind the member variables to the place holder in the template
+		$parameters = array("articleId" =>$this->articleId);
+		$statement->execute($parameters);
 	}
 
 }
