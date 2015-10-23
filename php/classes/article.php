@@ -179,7 +179,7 @@ class Article{
 /**
  * inserts this article into mySQL
  *
- * @param PDO $pdo pointer to PDO connection, by reference
+ * @param PDO $pdo PDO connection object
  * @throws PDOException when mySQL related errors occur
  **/
 	public function insert(PDO&$PDO){
@@ -192,6 +192,13 @@ class Article{
 	="INSERT INTO article(articleDate, issueId, articleContent) VALUES (:articleDate, :issueId,:articleContent)";
 		$statement = $pdo->prepare($query);
 
+		// bind the member values to the placeholders in the template
+		$formattedDate= $this->articleDate->format("Y-m-d H:i:s");
+		$parameters = array("articleDate"=>$formattedDate, $this"issueId"=>$this->issueId,"articleContent"=>$this->articleContent,);
+		$statement->execute($parameters);
+
+		// update the null articleId with what mySQL just gave us
+		$this->articleId = intval($pdo->lastInsertId());
 	}
 
 }
