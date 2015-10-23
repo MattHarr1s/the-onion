@@ -221,8 +221,31 @@ class Article{
 		$parameters = array("articleId" =>$this->articleId);
 		$statement->execute($parameters);
 	}
+/**
+ * updated this article in mySql
+ *
+ * @param PDO $pdo PDO connection object
+ * @throws PDO exception when mySQL related errors occur
+ **/
+	public function update(PDO $pdo){
+		// enforce the articleId is not null (i.e., don't update an article that hasn't been inserted
+		if($this->articleId === null){
+			throw (new PDOException("unable to update an article that does not exist"));
+		}
 
+		//create query template
+		$query= "UPDATE article SET articleContent = :articleContent, articleDate = :articleDate, issueId = :issueID
+	WHERE articleId = :articleId";
+		$statement = $pdo->prepare($query);
+
+		//bind the member variables to the place holders in the template
+		$formattedDate = $this->articleDate->format("Y-m-d H:i:s");
+		$parameters = array("articleContent"=>$this->articleContent,"articleDate"=>$this->$formattedDate,"articleId"=>
+	$this->articleId);
+		$statement->execute($parameters);
+	}
 }
+
 
 
 
