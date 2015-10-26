@@ -275,7 +275,4 @@ class Article{
 	$this->articleId);
 		$statement->execute($parameters);
 	}
-
-
-
-
+}
