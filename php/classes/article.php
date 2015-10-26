@@ -10,8 +10,9 @@ require_once(dirname(dirname(__DIR__)). "php/classes/article.php");
  * 2.ArticleContent
  * 3.ArticleDate
  * 4.IssueId
- * When a new Article object is created it is automatically given the four attributes.
- * The new Article entry is then created in the mySQL database
+ * When a new Article object is created it is automagically given the four attributes.
+ * The new Article entry is then created in the mySQL database where it can be accessed, updated, searched for or
+ * deleted
  *
  * @author Matt Harris <mateodelay@gmail.com>
  **/
@@ -40,6 +41,9 @@ class Article{
 	/**
 	 * constructor for this Article
 	 *
+	 * creates new object which inherites the traits of the article class.
+	 * object contains 4 attributes listed above in the parent class.
+	 *
 	 * @param mixed $newArticleId id of this article or null if a new article
 	 * @param string $newArticleContent string containing actual article data
 	 * @param mixed $newArticleDate date and time Article was published or null if set to current date and time
@@ -48,7 +52,7 @@ class Article{
 	 * @throws RangeException if data values are out of bounds (e.g. strings too long, negative integers
 	 * @throws Exception if some other exception is thrown
 	 **/
-	public function __construct($newArticleId,$newArticleContent,$newArticleDate ,$newIssueId){
+	public function __construct($newArticleId, $newArticleContent, $newArticleDate, $newIssueId){
 		try{
 			$this->setArticleId($newArticleId);
 			$this->setArticleContent($newArticleContent);
@@ -68,18 +72,22 @@ class Article{
 	/**
 	 * accessor method for articleId
 	 *
+	 * exchanges information through the chinese wall to gain access to articleId
+	 *
 	 * @return mixed value of articleId
-	 **/
+	**/
 	public function getArticleId(){
 			return($this->articleId);
 	}
 	/**
 	 * mutator method for articleId
 	 *
+	 * uses access from chinese wall to modify values of articleId
+	 *
 	 * @param mixed $newArticleId new value of articleId
 	 * @throws InvalidArgumentException if $newArticleId is not an integer
 	 * @throws RangeException if $newArticleId is not positive
-	 **/
+	**/
 
 	public function setArticleId ($newArticleId){
 		// base case: if the articleId is null, this is a new article without a mySQL assigned id (yet)
@@ -102,17 +110,21 @@ class Article{
 	/**
 	 * accessor method for articeContent
 	 *
-	 * return string value of tweet content
-	 **/
+	 * exchanges information through the chinese wall to gain access to articleContent
+	 *
+	 * @return string value of tweet content
+	**/
 	public function getArticleContent(){
 			return($this->articleContent);
 	}
 	/**
 	 * mutator method for article content
 	 *
+	 * uses access from chinese wall to modify values of articleId
+	 *
 	 * @param string $newArticleContent new value of article content
 	 * @throws InvalidArgumentException if $newArticleContent is not a string or insecure
-	 **/
+	**/
 	public function setArticleContent($newArticleContent){
 		// verify the article content is secure
 		$newArticleContent = trim($newArticleContent);
@@ -126,6 +138,8 @@ class Article{
 	/**
 	 * accesssor method for article date
 	 *
+	 * exchanges information through the chinese wall to gain access to articleDate
+	 *
 	 * @return DATETIME value of article date
 	 **/
 	public function getArticleDate(){
@@ -133,6 +147,8 @@ class Article{
 	}
 	/**
 	 * mutator method for article date
+	 *
+	 * uses access from chinese wall to modify values of articleDate
 	 *
 	 *@param mixed $newArticleDate article date as a DateTime object or string (or null to load the currrent time)
 	 *@throws InvalidArgumentException if $newArticleDate is not a valid object or string
@@ -159,6 +175,8 @@ class Article{
 	/**
 	 * accessor method for issueId
 	 *
+	 * exchanges information through the chinese wall to gain access to issueId
+	 *
 	 * @return int value of issueId
 	 **/
 	public function setIssueId($newIssueId){
@@ -166,6 +184,8 @@ class Article{
 	}
 	/**
 	 * mutator method for issueId
+	 *
+	 * uses access from chinese wall to modify values of issueId
 	 *
 	 * @param int $newIssueId new value of issueId
 	 * @throws InvalidArgumentException if $newIssueId is not an integer or not positive
@@ -210,7 +230,7 @@ class Article{
 		$this->articleId = intval($pdo->lastInsertId());
 	}
 /**
- * deletes this Article from mySQL
+ * deletes this article from mySQL
  *
  * @param PDO $pdo PDO connection object
  * @throws PDOException when mySQL related errors occur
@@ -230,13 +250,13 @@ class Article{
 		$statement->execute($parameters);
 	}
 /**
- * updated this article in mySql
+ * update this article in mySql
  *
  * @param PDO $pdo PDO connection object
  * @throws PDO exception when mySQL related errors occur
  **/
 	public function update(PDO $pdo){
-		// enforce the articleId is not null (i.e., don't update an article that hasn't been inserted
+		// enforce the articleId is not null (i.e., don't update an article that hasn't been inserted)
 		if($this->articleId === null){
 			throw (new PDOException("unable to update an article that does not exist"));
 		}
@@ -252,17 +272,6 @@ class Article{
 	$this->articleId);
 		$statement->execute($parameters);
 	}
-/**
- * gets the article by content
- *
- * @param PDO $pdo PDO connection object
- * @param string $articleContent article content to search for
- * @return SplFixedArray all Articles found for this content
- * @throws PDOException when mySQL related errors occur
- *
- **/
-public static function getArticleByArticleContent(PDO $pdo, $articleContent)
-}
 
 
 
