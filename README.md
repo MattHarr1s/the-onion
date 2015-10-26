@@ -1,2 +1,2 @@
 # the-onion
-Repository for data design project
+Repository for data design project about the onion website

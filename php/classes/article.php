@@ -102,7 +102,7 @@ class Article{
 	/**
 	 * accessor method for articeContent
 	 *
-	 * return string value of tweet content
+	 * return string value of article content
 	 **/
 	public function getArticleContent(){
 			return($this->articleContent);
@@ -137,6 +137,7 @@ class Article{
 	 *@param mixed $newArticleDate article date as a DateTime object or string (or null to load the currrent time)
 	 *@throws InvalidArgumentException if $newArticleDate is not a valid object or string
 	 *@throws RangeException if $newArticleDate is a date that does not exist
+	 *@throws Exception for any other exception
 	 **/
 	public function setArticleDate($newArticleDate){
 		// base case:: if the date is null, use the current date and time
@@ -159,9 +160,10 @@ class Article{
 	/**
 	 * accessor method for issueId
 	 *
+	 * @param newIssueId
 	 * @return int value of issueId
 	 **/
-	public function setIssueId($newIssueId){
+	public function getIssueId ($newIssueId){
 		return($this->issueId);
 	}
 	/**
@@ -171,7 +173,7 @@ class Article{
 	 * @throws InvalidArgumentException if $newIssueId is not an integer or not positive
 	 * @throws RangeExeption if $newIssueId is not positive
 	 **/
-	public function setIssueId($newIssueId){
+	public function setIssueId ($newIssueId){
 		// verify the issueId is valid
 		$newIssueId = filter_var($newIssueId, FILTER_VALIDATE_INT);
 		if($newIssueId === false){
